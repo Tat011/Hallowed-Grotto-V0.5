@@ -1,0 +1,6 @@
+Template: HH_SettingsTemplate_Inv
+EffectColorA: 13
+EffectColorB: 7
+Effects: VoidMelt-0.3-253.4286-70.22857, TinyDragonFly-0.01-267-123, RedSwarmer-0.01-267-9, Darkness-0-264-179, VoidSpawn-1-20-20, 
+PlacedObjects: BubbleGrass><660.9658><120.9547><173~4~5~10, BubbleGrass><637.2429><110.4085><0~0~5~10, 
+FadePalette: 8, 0.5

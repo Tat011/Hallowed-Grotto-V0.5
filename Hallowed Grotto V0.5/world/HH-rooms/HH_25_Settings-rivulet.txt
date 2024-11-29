@@ -1,0 +1,14 @@
+Template: NONE
+RainIntensity: 0
+RumbleIntensity: 0.15
+CeilingDrips: 0.2
+Clouds: 1.0
+Grime: 0
+RandomItemDensity: 0.3
+RandomItemSpearChance: 0.4
+Palette: 195
+EffectColorA: 9
+EffectColorB: 7
+Effects: TinyDragonFly-0.075-267-123, RedSwarmer-0.075-267-9, Darkness-0-264-179, VoidSpawn-0.7-20-20, 
+PlacedObjects: EEGhostSpot><247.4024><310.1176><, InsectGroup><587.3007><1280.016><-262~7~-122~-163~RockFlea~1, InsectGroup><840.1264><992.5928><-44~75~-18~113~LightningBugA~0.5, 
+FadePalette: 8, 0.5, 0.5

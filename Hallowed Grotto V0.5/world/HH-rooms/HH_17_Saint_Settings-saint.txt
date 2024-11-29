@@ -1,0 +1,6 @@
+Template: HH_SettingsTemplate_Saint
+EffectColorA: 13
+EffectColorB: 7
+Effects: VoidMelt-0.3-253.4286-70.22857, TinyDragonFly-0.01-267-123, RedSwarmer-0.01-267-9, Darkness-0-264-179, VoidSpawn-1-20-20,
+Triggers: RegionBump<tA>event<tB>MusicEvent<eA>songName<eB>na_35 - else4<eA>vol<eB>0.3<eA>prio<eB>1<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>1<eA>stopAtDeath<eB>1<eA>stopAtGate<eB>1<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>446.8047<tB>220.1766<tA>fireChance<tB>1<tA>entrance<tB>0<tA>karma<tB>0<tA>slugcats<tB>Saint,
+FadePalette: 8, 0.5

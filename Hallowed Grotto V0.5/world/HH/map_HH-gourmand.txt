@@ -1,0 +1,88 @@
+HH_25: -688.5><-507><-498><-390><0><Hallowed Grotto (Depths)
+HH_27: -531><-621><-398><-428><0><Hallowed Grotto (Depths)
+HH_28: -537><-855><-402><-502><0><Hallowed Grotto (Depths)
+HH_30: -909><42><-700><-30><0><
+HH_S02: -813><-66><-584><-102><0><
+HH_S03: -354><-342><-300><-244><0><
+GATE_SB_HH_2: -774><-670.5><-568><-466><0><
+GATE_HH_SL: 726><-195><0><-70><2><
+HH_04: 465><-3><0><-70><1><Hallowed Grotto
+HH_31: -531><-738><0><-82><0><Hallowed Grotto (Depths)
+GATE_DS_HH_Gourmand: -174><598.5><0><-70><0><
+HH_12_Gourmand: -123><481.5><0><-82><0><
+HH_S01_Gourmand: -165><340.5><0><-70><0><
+GATE_SB_HH_Gourmand: -1134><66><0><-70><0><
+HH_08_Gourmand: -15><357><0><-76><0><Hallowed Grotto
+HH_26_Gourmand: -579><-6><0><-70><0><Hallowed Grotto
+HH_16_Gourmand: -315><-39><0><-76><0><Hallowed Grotto
+HH_13_Gourmand: 672><187.5><0><-70><0><Hallowed Grotto
+HH_03_Gourmand: 504><121.5><0><-74><0><Hallowed Grotto
+HH_07_Gourmand: 37.5><247.5><0><-70><0><Hallowed Grotto
+HH_06_Gourmand: 219><192><0><-104><0><Hallowed Grotto
+HH_11_Gourmand: -21><126><0><-102><0><Hallowed Grotto
+HH_02_Gourmand: 396><250.5><0><-74><0><Hallowed Grotto
+HH_01_Gourmand: 540><313.5><0><-70><0><
+GATE_HH_GW_Gourmand: 660><441><0><-100><0><
+HH_24_Gourmand: -543><-369><0><-70><1><Anchialine System
+HH_17_Gourmand: 294><-465><0><-70><0><Hallowed Grotto (Depths)
+HH_18_Gourmand: -69><-465><0><-70><0><Hallowed Grotto (Depths)
+HH_19_Gourmand: -234><-459><0><-70><0><Hallowed Grotto (Depths)
+HH_22_Gourmand: -423><-465><0><-80><0><Hallowed Grotto (Depths)
+HH_23_Gourmand: -411><-145.5><0><-70><0><
+HH_21_Gourmand: -207><-303><0><-104><0><Anchialine System
+HH_14_Gourmand: -447><-201><0><-164><1><
+HH_15_Gourmand: 120><-292.5><0><-74><2><Anchialine System
+HH_10_Gourmand: -234><-156><0><-80><1><
+HH_09_Gourmand: 33><-93><0><-184><0><Hallowed Grotto
+HH_05_Gourmand: 147><-141><0><-224><1><Hallowed Grotto
+HH_29_Gourmand: 510><-225><0><-84><2><Anchialine System
+OffScreenDen_HH: -363><336><-306><214><0><
+HH_20_Gourmand: 324><-261><0><-70><0><Anchialine System
+Connection: HH_25,HH_24_Gourmand,43,72,1,5,0,2
+Connection: HH_25,HH_22_Gourmand,47,48,1,15,0,2
+Connection: HH_25,HH_27,46,11,1,30,0,2
+Connection: HH_25,GATE_SB_HH_2,15,3,47,22,3,0
+Connection: HH_27,HH_31,18,9,29,38,0,0
+Connection: HH_28,HH_31,20,32,29,3,0,0
+Connection: HH_30,GATE_SB_HH_Gourmand,4,17,45,9,2,0
+Connection: HH_30,HH_26_Gourmand,95,16,1,32,0,2
+Connection: HH_30,HH_S02,83,14,25,29,3,1
+Connection: HH_S03,HH_21_Gourmand,30,17,14,12,0,2
+Connection: GATE_HH_SL,HH_29_Gourmand,4,12,87,25,2,0
+Connection: HH_04,HH_03_Gourmand,44,32,34,7,1,3
+Connection: HH_04,HH_05_Gourmand,3,12,149,96,2,0
+Connection: GATE_DS_HH_Gourmand,HH_12_Gourmand,36,5,31,31,3,2
+Connection: HH_12_Gourmand,HH_08_Gourmand,37,3,1,32,0,2
+Connection: HH_S01_Gourmand,HH_08_Gourmand,39,16,13,11,0,2
+Connection: HH_08_Gourmand,HH_07_Gourmand,24,1,6,29,3,1
+Connection: HH_26_Gourmand,HH_16_Gourmand,118,10,2,22,0,2
+Connection: HH_26_Gourmand,HH_23_Gourmand,89,2,2,33,3,1
+Connection: HH_16_Gourmand,HH_09_Gourmand,51,23,1,68,0,2
+Connection: HH_16_Gourmand,HH_23_Gourmand,18,1,44,32,3,0
+Connection: HH_13_Gourmand,HH_02_Gourmand,3,32,42,10,2,0
+Connection: HH_13_Gourmand,HH_03_Gourmand,2,4,43,25,2,0
+Connection: HH_03_Gourmand,HH_09_Gourmand,5,24,173,68,2,0
+Connection: HH_07_Gourmand,HH_06_Gourmand,47,18,16,44,0,2
+Connection: HH_07_Gourmand,HH_11_Gourmand,6,4,26,48,3,1
+Connection: HH_06_Gourmand,HH_02_Gourmand,51,44,1,18,0,2
+Connection: HH_06_Gourmand,HH_05_Gourmand,31,4,97,109,3,1
+Connection: HH_11_Gourmand,HH_09_Gourmand,26,1,72,90,3,1
+Connection: HH_02_Gourmand,HH_01_Gourmand,46,27,12,5,0,2
+Connection: HH_01_Gourmand,GATE_HH_GW_Gourmand,37,29,2,9,0,2
+Connection: HH_24_Gourmand,HH_23_Gourmand,9,31,25,1,1,3
+Connection: HH_24_Gourmand,HH_14_Gourmand,36,33,5,11,1,3
+Connection: HH_24_Gourmand,HH_21_Gourmand,46,20,8,26,0,2
+Connection: HH_17_Gourmand,HH_20_Gourmand,40,33,30,1,1,3
+Connection: HH_17_Gourmand,HH_18_Gourmand,1,13,46,13,2,0
+Connection: HH_18_Gourmand,HH_09_Gourmand,36,12,66,5,1,3
+Connection: HH_18_Gourmand,HH_19_Gourmand,3,12,55,10,2,0
+Connection: HH_19_Gourmand,HH_22_Gourmand,4,11,64,15,2,0
+Connection: HH_22_Gourmand,HH_21_Gourmand,58,24,21,1,1,3
+Connection: HH_21_Gourmand,HH_15_Gourmand,38,41,1,20,0,2
+Connection: HH_21_Gourmand,HH_05_Gourmand,37,7,57,29,0,2
+Connection: HH_14_Gourmand,HH_10_Gourmand,47,61,1,25,0,2
+Connection: HH_15_Gourmand,HH_09_Gourmand,63,35,93,4,1,3
+Connection: HH_15_Gourmand,HH_29_Gourmand,156,33,16,12,0,2
+Connection: HH_10_Gourmand,HH_09_Gourmand,85,38,37,49,1,3
+Connection: HH_10_Gourmand,HH_05_Gourmand,89,24,4,89,0,2
+Connection: HH_05_Gourmand,HH_20_Gourmand,108,22,1,24,0,2

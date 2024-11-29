@@ -1,0 +1,15 @@
+Template: NONE
+DangerType: Flood
+RainIntensity: 0
+CeilingDrips: 0.6
+RumbleIntensity: 0.7
+Clouds: 1
+Grime: 0
+RandomItemDensity: 0.2
+RandomItemSpearChance: 0.3
+Palette: 4
+EffectColorA: 9
+EffectColorB: 7
+Effects: RockFlea-1-20-20, GrassHopper-1-20-40, Beetle-1-100-20, TinyDragonFly-0.7-100-40, RedSwarmer-0.7-100-60, 
+PlacedObjects: LightSource><809.049><180.9439><0.5~EffectColor1~1~84~-84.99994~-197.3974~0~0~Fade~0~0, Mushroom><866.136><187.6466><-360~283~5~15, Mushroom><844.8203><179.3381><-442~359~5~15, Mushroom><106.805><193.9554><-170~8~5~15, Mushroom><126.805><193.9554><-204~-96~5~15, Mushroom><163.805><192.9554><2~-130~5~15, Mushroom><753.1083><153.0818><3~70~2~3, 
+WetTerrain: OFF

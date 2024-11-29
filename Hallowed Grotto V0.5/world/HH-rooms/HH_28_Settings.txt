@@ -1,0 +1,16 @@
+Template: NONE
+DangerType: Rain
+RainIntensity: 0
+RumbleIntensity: 0
+CeilingDrips: 0
+Clouds: 1.0
+Grime: 0
+RandomItemDensity: 0
+RandomItemSpearChance: 0
+Palette: 14
+EffectColorA: 9
+EffectColorB: 7
+Effects: VoidMelt-0.16-253.4286-70.22857, VoidSpawn-0.7-20-20, 
+PlacedObjects: UniqueDataPearl><332.5543><570.6138><11.33337~-115.5657~0~0~HH_pearl_1~0, 
+FadePalette: 36, 0.35
+WetTerrain: OFF

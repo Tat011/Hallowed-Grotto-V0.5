@@ -1,0 +1,86 @@
+GATE_HH_GW_Spear: 663><441><0><-100><0><
+HH_01_Spear: 540><319.5><0><-70><0><
+HH_02_Spear: 396><256.5><0><-74><0><Hallowed Grotto
+HH_03_Spear: 504><126><0><-74><0><Hallowed Grotto
+HH_05_Spear: 136.5><-129><0><-224><1><Hallowed Grotto
+HH_06_Spear: 216><195><0><-104><0><Hallowed Grotto
+HH_07_Spear: 31.5><253.5><0><-70><0><Hallowed Grotto
+HH_08_Spear: -18><360><0><-76><0><Hallowed Grotto
+HH_09_Spear: 30><-93><0><-184><0><Hallowed Grotto
+HH_10_Spear: -246><-156><0><-80><1><
+HH_12_Spear: -123><487.5><0><-82><0><
+HH_13_Spear: 657><186><0><-70><0><Hallowed Grotto
+HH_14_Spear: -447><-201><0><-164><1><
+HH_15_Spear: 117><-291><0><-74><2><Anchialine System
+HH_16_Spear: -318><-39><0><-76><0><Hallowed Grotto
+HH_17_Spear: 291><-462><0><-70><0><Hallowed Grotto (Depths)
+HH_18_Spear: -72><-462><0><-70><0><Hallowed Grotto (Depths)
+HH_19_Spear: -237><-456><0><-70><0><Hallowed Grotto (Depths)
+HH_20_Spear: 321><-243><0><-70><0><Anchialine System
+HH_21_Spear: -207><-303><0><-104><0><Anchialine System
+HH_22_Spear: -426><-465><0><-80><0><Hallowed Grotto (Depths)
+HH_23_Spear: -408><-144><0><-70><0><Hallowed Grotto
+HH_24_Spear: -543><-366><0><-70><1><Anchialine System
+HH_26_Spear: -579><-3><0><-70><0><Hallowed Grotto
+HH_29_Spear: 507><-225><0><-84><2><Anchialine System
+HH_S01_Spear: -165><346.5><0><-70><0><
+GATE_DS_HH_Spear: -174><604.5><0><-70><0><
+GATE_SB_HH_Spear: -1134><69><0><-70><0><
+HH_04: 468><12><0><-70><1><Hallowed Grotto
+HH_25: -693><-507><-498><-390><0><Hallowed Grotto (Depths)
+HH_27: -531><-616.5><-398><-428><0><Hallowed Grotto (Depths)
+HH_28: -537><-850.5><-402><-502><0><Hallowed Grotto (Depths)
+HH_30: -909><46.5><-700><-30><0><
+HH_31: -531><-733.5><0><-82><0><Hallowed Grotto (Depths)
+HH_S02: -813><-61.5><-584><-102><0><
+HH_S03: -357><-340.5><-300><-244><0><
+GATE_HH_SL: 723><-193.5><0><-70><2><
+GATE_SB_HH_2: -774><-666><-568><-466><0><
+OffScreenDen_HH: -363><336><-306><214><0><
+Connection: GATE_HH_GW_Spear,HH_01_Spear,2,9,37,29,2,0
+Connection: HH_01_Spear,HH_02_Spear,12,5,46,27,2,0
+Connection: HH_02_Spear,HH_06_Spear,1,18,51,44,2,0
+Connection: HH_02_Spear,HH_13_Spear,42,10,3,32,0,2
+Connection: HH_03_Spear,HH_13_Spear,43,25,2,4,0,2
+Connection: HH_03_Spear,HH_09_Spear,5,24,173,68,2,0
+Connection: HH_03_Spear,HH_04,34,7,44,32,3,1
+Connection: HH_05_Spear,HH_06_Spear,97,109,31,4,1,3
+Connection: HH_05_Spear,HH_04,149,96,3,12,0,2
+Connection: HH_05_Spear,HH_10_Spear,4,89,89,24,2,0
+Connection: HH_05_Spear,HH_21_Spear,57,29,38,41,2,0
+Connection: HH_05_Spear,HH_20_Spear,108,22,1,24,0,2
+Connection: HH_06_Spear,HH_07_Spear,16,44,47,18,2,0
+Connection: HH_07_Spear,HH_08_Spear,6,29,24,1,1,3
+Connection: HH_07_Spear,HH_09_Spear,6,4,72,90,3,1
+Connection: HH_08_Spear,HH_12_Spear,1,32,37,3,2,0
+Connection: HH_08_Spear,HH_S01_Spear,13,11,39,16,2,0
+Connection: HH_09_Spear,HH_16_Spear,1,68,51,23,2,0
+Connection: HH_09_Spear,HH_10_Spear,37,49,85,38,3,1
+Connection: HH_09_Spear,HH_18_Spear,66,5,36,12,3,1
+Connection: HH_09_Spear,HH_15_Spear,93,4,63,35,3,1
+Connection: HH_10_Spear,HH_14_Spear,1,25,47,61,2,0
+Connection: HH_12_Spear,GATE_DS_HH_Spear,31,31,36,5,2,3
+Connection: HH_14_Spear,HH_24_Spear,5,11,36,33,3,1
+Connection: HH_15_Spear,HH_29_Spear,156,33,16,12,0,2
+Connection: HH_15_Spear,HH_21_Spear,1,20,37,7,2,0
+Connection: HH_16_Spear,HH_26_Spear,2,22,118,10,2,0
+Connection: HH_16_Spear,HH_23_Spear,18,1,44,32,3,0
+Connection: HH_17_Spear,HH_20_Spear,40,33,30,1,1,3
+Connection: HH_17_Spear,HH_18_Spear,1,13,46,13,2,0
+Connection: HH_18_Spear,HH_19_Spear,3,12,55,10,2,0
+Connection: HH_19_Spear,HH_22_Spear,4,11,64,15,2,0
+Connection: HH_21_Spear,HH_24_Spear,8,26,46,20,2,0
+Connection: HH_21_Spear,HH_S03,14,12,30,17,2,0
+Connection: HH_21_Spear,HH_22_Spear,24,4,58,24,2,1
+Connection: HH_22_Spear,HH_25,1,15,47,48,2,0
+Connection: HH_23_Spear,HH_26_Spear,2,33,89,2,1,3
+Connection: HH_23_Spear,HH_24_Spear,25,1,9,31,3,1
+Connection: HH_24_Spear,HH_25,1,5,43,72,2,0
+Connection: HH_26_Spear,HH_30,1,32,95,16,2,0
+Connection: HH_29_Spear,GATE_HH_SL,87,25,4,12,0,2
+Connection: GATE_SB_HH_Spear,HH_30,45,9,4,17,0,2
+Connection: HH_25,HH_27,46,11,1,30,0,2
+Connection: HH_25,GATE_SB_HH_2,15,3,47,22,3,0
+Connection: HH_27,HH_31,18,9,29,38,0,0
+Connection: HH_28,HH_31,20,32,29,3,0,0
+Connection: HH_30,HH_S02,83,14,25,29,3,1

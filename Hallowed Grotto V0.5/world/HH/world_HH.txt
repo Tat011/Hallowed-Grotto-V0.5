@@ -1,0 +1,1433 @@
+CONDITIONAL LINKS
+Spear : EXCLUSIVEROOM : GATE_HH_GW_Spear
+Spear : EXCLUSIVEROOM : HH_01_Spear
+Spear : EXCLUSIVEROOM : HH_02_Spear
+Spear : EXCLUSIVEROOM : HH_03_Spear
+Spear : EXCLUSIVEROOM : HH_05_Spear
+Spear : EXCLUSIVEROOM : HH_06_Spear
+Spear : EXCLUSIVEROOM : HH_07_Spear
+Spear : EXCLUSIVEROOM : HH_08_Spear
+Spear : EXCLUSIVEROOM : HH_09_Spear
+Spear : EXCLUSIVEROOM : HH_10_Spear
+Spear : EXCLUSIVEROOM : HH_12_Spear
+Spear : EXCLUSIVEROOM : HH_13_Spear
+Spear : EXCLUSIVEROOM : HH_14_Spear
+Spear : EXCLUSIVEROOM : HH_15_Spear
+Spear : EXCLUSIVEROOM : HH_16_Spear
+Spear : EXCLUSIVEROOM : HH_17_Spear
+Spear : EXCLUSIVEROOM : HH_18_Spear
+Spear : EXCLUSIVEROOM : HH_19_Spear
+Spear : EXCLUSIVEROOM : HH_20_Spear
+Spear : EXCLUSIVEROOM : HH_21_Spear
+Spear : EXCLUSIVEROOM : HH_22_Spear
+Spear : EXCLUSIVEROOM : HH_23_Spear
+Spear : EXCLUSIVEROOM : HH_24_Spear
+Spear : EXCLUSIVEROOM : HH_25_Spear
+Spear : EXCLUSIVEROOM : HH_26_Spear
+Spear : EXCLUSIVEROOM : HH_29_Spear
+Spear : EXCLUSIVEROOM : HH_S01_Spear
+Spear : EXCLUSIVEROOM : GATE_DS_HH_Spear
+Spear : EXCLUSIVEROOM : GATE_SB_HH_Spear
+
+Spear : HH_04 : HH_03 : HH_03_Spear
+Spear : HH_04 : HH_05 : HH_05_Spear
+Spear : HH_25 : HH_22 : HH_22_Spear
+Spear : HH_25 : HH_24 : HH_24_Spear
+Spear : HH_30 : GATE_SB_HH : GATE_SB_HH_Spear
+Spear : HH_30 : HH_26 : HH_26_Spear
+Spear : HH_S03 : HH_21 : HH_21_Spear
+Spear : GATE_HH_SL : HH_29 : HH_29_Spear
+
+Spear : HIDEROOM : GATE_HH_GW
+Spear : HIDEROOM : HH_01
+Spear : HIDEROOM : HH_02
+Spear : HIDEROOM : HH_03
+Spear : HIDEROOM : HH_05
+Spear : HIDEROOM : HH_06
+Spear : HIDEROOM : HH_07
+Spear : HIDEROOM : HH_08
+Spear : HIDEROOM : HH_09
+Spear : HIDEROOM : HH_10
+Spear : HIDEROOM : HH_11
+Spear : HIDEROOM : HH_12
+Spear : HIDEROOM : HH_13
+Spear : HIDEROOM : HH_14
+Spear : HIDEROOM : HH_15
+Spear : HIDEROOM : HH_16
+Spear : HIDEROOM : HH_17
+Spear : HIDEROOM : HH_18
+Spear : HIDEROOM : HH_19
+Spear : HIDEROOM : HH_20
+Spear : HIDEROOM : HH_21
+Spear : HIDEROOM : HH_22
+Spear : HIDEROOM : HH_23
+Spear : HIDEROOM : HH_24
+Spear : HIDEROOM : HH_26
+Spear : HIDEROOM : HH_29
+Spear : HIDEROOM : HH_S01
+Spear : HIDEROOM : GATE_DS_HH
+Spear : HIDEROOM : GATE_SB_HH
+
+Artificer : EXCLUSIVEROOM : GATE_HH_GW_Arti
+Artificer : EXCLUSIVEROOM : HH_01_Arti
+Artificer : EXCLUSIVEROOM : HH_02_Arti
+Artificer : EXCLUSIVEROOM : HH_03_Arti
+Artificer : EXCLUSIVEROOM : HH_05_Arti
+Artificer : EXCLUSIVEROOM : HH_06_Arti
+Artificer : EXCLUSIVEROOM : HH_07_Arti
+Artificer : EXCLUSIVEROOM : HH_08_Arti
+Artificer : EXCLUSIVEROOM : HH_09_Arti
+Artificer : EXCLUSIVEROOM : HH_10_Arti
+Artificer : EXCLUSIVEROOM : HH_12_Arti
+Artificer : EXCLUSIVEROOM : HH_13_Arti
+Artificer : EXCLUSIVEROOM : HH_14_Arti
+Artificer : EXCLUSIVEROOM : HH_15_Arti
+Artificer : EXCLUSIVEROOM : HH_16_Arti
+Artificer : EXCLUSIVEROOM : HH_17_Arti
+Artificer : EXCLUSIVEROOM : HH_18_Arti
+Artificer : EXCLUSIVEROOM : HH_19_Arti
+Artificer : EXCLUSIVEROOM : HH_20_Arti
+Artificer : EXCLUSIVEROOM : HH_21_Arti
+Artificer : EXCLUSIVEROOM : HH_22_Arti
+Artificer : EXCLUSIVEROOM : HH_23_Arti
+Artificer : EXCLUSIVEROOM : HH_24_Arti
+Artificer : EXCLUSIVEROOM : HH_26_Arti
+Artificer : EXCLUSIVEROOM : HH_29_Arti
+Artificer : EXCLUSIVEROOM : HH_S01_Arti
+Artificer : EXCLUSIVEROOM : GATE_DS_HH_Arti
+Artificer : EXCLUSIVEROOM : GATE_SB_HH_Arti
+
+Artificer : HH_04 : HH_03 : HH_03_Arti
+Artificer : HH_04 : HH_05 : HH_05_Arti
+Artificer : HH_25 : HH_22 : HH_22_Arti
+Artificer : HH_25 : HH_24 : HH_24_Arti
+Artificer : HH_30 : GATE_SB_HH : GATE_SB_HH_Arti
+Artificer : HH_30 : HH_26 : HH_26_Arti
+Artificer : HH_S03 : HH_21 : HH_21_Arti
+Artificer : GATE_HH_SL : HH_29 : HH_29_Arti
+
+Artificer : HIDEROOM : GATE_HH_GW
+Artificer : HIDEROOM : HH_01
+Artificer : HIDEROOM : HH_02
+Artificer : HIDEROOM : HH_03
+Artificer : HIDEROOM : HH_05
+Artificer : HIDEROOM : HH_06
+Artificer : HIDEROOM : HH_07
+Artificer : HIDEROOM : HH_08
+Artificer : HIDEROOM : HH_09
+Artificer : HIDEROOM : HH_10
+Artificer : HIDEROOM : HH_11
+Artificer : HIDEROOM : HH_12
+Artificer : HIDEROOM : HH_13
+Artificer : HIDEROOM : HH_14
+Artificer : HIDEROOM : HH_15
+Artificer : HIDEROOM : HH_16
+Artificer : HIDEROOM : HH_17
+Artificer : HIDEROOM : HH_18
+Artificer : HIDEROOM : HH_19
+Artificer : HIDEROOM : HH_20
+Artificer : HIDEROOM : HH_21
+Artificer : HIDEROOM : HH_22
+Artificer : HIDEROOM : HH_23
+Artificer : HIDEROOM : HH_24
+Artificer : HIDEROOM : HH_26
+Artificer : HIDEROOM : HH_29
+Artificer : HIDEROOM : HH_S01
+Artificer : HIDEROOM : GATE_DS_HH
+Artificer : HIDEROOM : GATE_SB_HH
+
+Red : EXCLUSIVEROOM : GATE_HH_GW_Hunter
+Red : EXCLUSIVEROOM : HH_01_Hunter
+Red : EXCLUSIVEROOM : HH_02_Hunter
+Red : EXCLUSIVEROOM : HH_03_Hunter
+Red : EXCLUSIVEROOM : HH_05_Hunter
+Red : EXCLUSIVEROOM : HH_06_Hunter
+Red : EXCLUSIVEROOM : HH_07_Hunter
+Red : EXCLUSIVEROOM : HH_08_Hunter
+Red : EXCLUSIVEROOM : HH_09_Hunter
+Red : EXCLUSIVEROOM : HH_10_Hunter
+Red : EXCLUSIVEROOM : HH_11_Hunter
+Red : EXCLUSIVEROOM : HH_12_Hunter
+Red : EXCLUSIVEROOM : HH_13_Hunter
+Red : EXCLUSIVEROOM : HH_14_Hunter
+Red : EXCLUSIVEROOM : HH_15_Hunter
+Red : EXCLUSIVEROOM : HH_16_Hunter
+Red : EXCLUSIVEROOM : HH_17_Hunter
+Red : EXCLUSIVEROOM : HH_18_Hunter
+Red : EXCLUSIVEROOM : HH_19_Hunter
+Red : EXCLUSIVEROOM : HH_20_Hunter
+Red : EXCLUSIVEROOM : HH_21_Hunter
+Red : EXCLUSIVEROOM : HH_22_Hunter
+Red : EXCLUSIVEROOM : HH_23_Hunter
+Red : EXCLUSIVEROOM : HH_24_Hunter
+Red : EXCLUSIVEROOM : HH_26_Hunter
+Red : EXCLUSIVEROOM : HH_29_Hunter
+Red : EXCLUSIVEROOM : HH_S01_Hunter
+Red : EXCLUSIVEROOM : GATE_DS_HH_Hunter
+Red : EXCLUSIVEROOM : GATE_SB_HH_Hunter
+
+Red : HH_04 : HH_03 : HH_03_Hunter
+Red : HH_04 : HH_05 : HH_05_Hunter
+Red : HH_25 : HH_22 : HH_22_Hunter
+Red : HH_25 : HH_24 : HH_24_Hunter
+Red : HH_30 : GATE_SB_HH : GATE_SB_HH_Hunter
+Red : HH_30 : HH_26 : HH_26_Hunter
+Red : HH_S03 : HH_21 : HH_21_Hunter
+Red : GATE_HH_SL : HH_29 : HH_29_Hunter
+
+Red : HIDEROOM : GATE_HH_GW
+Red : HIDEROOM : HH_01
+Red : HIDEROOM : HH_02
+Red : HIDEROOM : HH_03
+Red : HIDEROOM : HH_05
+Red : HIDEROOM : HH_06
+Red : HIDEROOM : HH_07
+Red : HIDEROOM : HH_08
+Red : HIDEROOM : HH_09
+Red : HIDEROOM : HH_10
+Red : HIDEROOM : HH_11
+Red : HIDEROOM : HH_12
+Red : HIDEROOM : HH_13
+Red : HIDEROOM : HH_14
+Red : HIDEROOM : HH_15
+Red : HIDEROOM : HH_16
+Red : HIDEROOM : HH_17
+Red : HIDEROOM : HH_18
+Red : HIDEROOM : HH_19
+Red : HIDEROOM : HH_20
+Red : HIDEROOM : HH_21
+Red : HIDEROOM : HH_22
+Red : HIDEROOM : HH_23
+Red : HIDEROOM : HH_24
+Red : HIDEROOM : HH_26
+Red : HIDEROOM : HH_29
+Red : HIDEROOM : HH_S01
+Red : HIDEROOM : GATE_DS_HH
+Red : HIDEROOM : GATE_SB_HH
+
+Gourmand : EXCLUSIVEROOM : GATE_HH_GW_Gourmand
+Gourmand : EXCLUSIVEROOM : HH_01_Gourmand
+Gourmand : EXCLUSIVEROOM : HH_02_Gourmand
+Gourmand : EXCLUSIVEROOM : HH_03_Gourmand
+Gourmand : EXCLUSIVEROOM : HH_05_Gourmand
+Gourmand : EXCLUSIVEROOM : HH_06_Gourmand
+Gourmand : EXCLUSIVEROOM : HH_07_Gourmand
+Gourmand : EXCLUSIVEROOM : HH_08_Gourmand
+Gourmand : EXCLUSIVEROOM : HH_09_Gourmand
+Gourmand : EXCLUSIVEROOM : HH_10_Gourmand
+Gourmand : EXCLUSIVEROOM : HH_11_Gourmand
+Gourmand : EXCLUSIVEROOM : HH_12_Gourmand
+Gourmand : EXCLUSIVEROOM : HH_13_Gourmand
+Gourmand : EXCLUSIVEROOM : HH_14_Gourmand
+Gourmand : EXCLUSIVEROOM : HH_15_Gourmand
+Gourmand : EXCLUSIVEROOM : HH_16_Gourmand
+Gourmand : EXCLUSIVEROOM : HH_17_Gourmand
+Gourmand : EXCLUSIVEROOM : HH_18_Gourmand
+Gourmand : EXCLUSIVEROOM : HH_19_Gourmand
+Gourmand : EXCLUSIVEROOM : HH_20_Gourmand
+Gourmand : EXCLUSIVEROOM : HH_21_Gourmand
+Gourmand : EXCLUSIVEROOM : HH_22_Gourmand
+Gourmand : EXCLUSIVEROOM : HH_23_Gourmand
+Gourmand : EXCLUSIVEROOM : HH_24_Gourmand
+Gourmand : EXCLUSIVEROOM : HH_25_Gourmand
+Gourmand : EXCLUSIVEROOM : HH_26_Gourmand
+Gourmand : EXCLUSIVEROOM : HH_29_Gourmand
+Gourmand : EXCLUSIVEROOM : HH_S01_Gourmand
+Gourmand : EXCLUSIVEROOM : GATE_DS_HH_Gourmand
+Gourmand : EXCLUSIVEROOM : GATE_SB_HH_Gourmand
+
+Gourmand : HH_04 : HH_03 : HH_03_Gourmand
+Gourmand : HH_04 : HH_05 : HH_05_Gourmand
+Gourmand : HH_25 : HH_22 : HH_22_Gourmand
+Gourmand : HH_25 : HH_24 : HH_24_Gourmand
+Gourmand : HH_30 : GATE_SB_HH : GATE_SB_HH_Gourmand
+Gourmand : HH_30 : HH_26 : HH_26_Gourmand
+Gourmand : HH_S03 : HH_21 : HH_21_Gourmand
+Gourmand : GATE_HH_SL : HH_29 : HH_29_Gourmand
+
+Gourmand : HIDEROOM : GATE_HH_GW
+Gourmand : HIDEROOM : HH_01
+Gourmand : HIDEROOM : HH_02
+Gourmand : HIDEROOM : HH_03
+Gourmand : HIDEROOM : HH_05
+Gourmand : HIDEROOM : HH_06
+Gourmand : HIDEROOM : HH_07
+Gourmand : HIDEROOM : HH_08
+Gourmand : HIDEROOM : HH_09
+Gourmand : HIDEROOM : HH_10
+Gourmand : HIDEROOM : HH_11
+Gourmand : HIDEROOM : HH_12
+Gourmand : HIDEROOM : HH_13
+Gourmand : HIDEROOM : HH_14
+Gourmand : HIDEROOM : HH_15
+Gourmand : HIDEROOM : HH_16
+Gourmand : HIDEROOM : HH_17
+Gourmand : HIDEROOM : HH_18
+Gourmand : HIDEROOM : HH_19
+Gourmand : HIDEROOM : HH_20
+Gourmand : HIDEROOM : HH_21
+Gourmand : HIDEROOM : HH_22
+Gourmand : HIDEROOM : HH_23
+Gourmand : HIDEROOM : HH_24
+Gourmand : HIDEROOM : HH_26
+Gourmand : HIDEROOM : HH_29
+Gourmand : HIDEROOM : HH_S01
+Gourmand : HIDEROOM : GATE_DS_HH
+Gourmand : HIDEROOM : GATE_SB_HH
+
+Yellow : EXCLUSIVEROOM : GATE_HH_GW_Monk
+Yellow : EXCLUSIVEROOM : HH_01_Monk
+Yellow : EXCLUSIVEROOM : HH_02_Monk
+Yellow : EXCLUSIVEROOM : HH_03_Monk
+Yellow : EXCLUSIVEROOM : HH_05_Monk
+Yellow : EXCLUSIVEROOM : HH_06_Monk
+Yellow : EXCLUSIVEROOM : HH_07_Monk
+Yellow : EXCLUSIVEROOM : HH_08_Monk
+Yellow : EXCLUSIVEROOM : HH_09_Monk
+Yellow : EXCLUSIVEROOM : HH_10_Monk
+Yellow : EXCLUSIVEROOM : HH_11_Monk
+Yellow : EXCLUSIVEROOM : HH_12_Monk
+Yellow : EXCLUSIVEROOM : HH_13_Monk
+Yellow : EXCLUSIVEROOM : HH_14_Monk
+Yellow : EXCLUSIVEROOM : HH_15_Monk
+Yellow : EXCLUSIVEROOM : HH_16_Monk
+Yellow : EXCLUSIVEROOM : HH_17_Monk
+Yellow : EXCLUSIVEROOM : HH_18_Monk
+Yellow : EXCLUSIVEROOM : HH_19_Monk
+Yellow : EXCLUSIVEROOM : HH_20_Monk
+Yellow : EXCLUSIVEROOM : HH_21_Monk
+Yellow : EXCLUSIVEROOM : HH_22_Monk
+Yellow : EXCLUSIVEROOM : HH_23_Monk
+Yellow : EXCLUSIVEROOM : HH_24_Monk
+Yellow : EXCLUSIVEROOM : HH_26_Monk
+Yellow : EXCLUSIVEROOM : HH_29_Monk
+Yellow : EXCLUSIVEROOM : HH_S01_Monk
+Yellow : EXCLUSIVEROOM : GATE_DS_HH_Monk
+Yellow : EXCLUSIVEROOM : GATE_SB_HH_Monk
+
+Yellow : HH_04 : HH_03 : HH_03_Monk
+Yellow : HH_04 : HH_05 : HH_05_Monk
+Yellow : HH_25 : HH_22 : HH_22_Monk
+Yellow : HH_25 : HH_24 : HH_24_Monk
+Yellow : HH_30 : GATE_SB_HH : GATE_SB_HH_Monk
+Yellow : HH_30 : HH_26 : HH_26_Monk
+Yellow : HH_S03 : HH_21 : HH_21_Monk
+Yellow : GATE_HH_SL : HH_29 : HH_29_Monk
+
+Yellow : HIDEROOM : GATE_HH_GW
+Yellow : HIDEROOM : HH_01
+Yellow : HIDEROOM : HH_02
+Yellow : HIDEROOM : HH_03
+Yellow : HIDEROOM : HH_05
+Yellow : HIDEROOM : HH_06
+Yellow : HIDEROOM : HH_07
+Yellow : HIDEROOM : HH_08
+Yellow : HIDEROOM : HH_09
+Yellow : HIDEROOM : HH_10
+Yellow : HIDEROOM : HH_11
+Yellow : HIDEROOM : HH_12
+Yellow : HIDEROOM : HH_13
+Yellow : HIDEROOM : HH_14
+Yellow : HIDEROOM : HH_15
+Yellow : HIDEROOM : HH_16
+Yellow : HIDEROOM : HH_17
+Yellow : HIDEROOM : HH_18
+Yellow : HIDEROOM : HH_19
+Yellow : HIDEROOM : HH_20
+Yellow : HIDEROOM : HH_21
+Yellow : HIDEROOM : HH_22
+Yellow : HIDEROOM : HH_23
+Yellow : HIDEROOM : HH_24
+Yellow : HIDEROOM : HH_26
+Yellow : HIDEROOM : HH_29
+Yellow : HIDEROOM : HH_S01
+Yellow : HIDEROOM : GATE_DS_HH
+Yellow : HIDEROOM : GATE_SB_HH
+
+Rivulet : EXCLUSIVEROOM : GATE_HH_GW_Riv
+Rivulet : EXCLUSIVEROOM : HH_01_Riv
+Rivulet : EXCLUSIVEROOM : HH_02_Riv
+Rivulet : EXCLUSIVEROOM : HH_03_Riv
+Rivulet : EXCLUSIVEROOM : HH_04_Riv
+Rivulet : EXCLUSIVEROOM : HH_05_Riv
+Rivulet : EXCLUSIVEROOM : HH_06_Riv
+Rivulet : EXCLUSIVEROOM : HH_07_Riv
+Rivulet : EXCLUSIVEROOM : HH_08_Riv
+Rivulet : EXCLUSIVEROOM : HH_09_Riv
+Rivulet : EXCLUSIVEROOM : HH_10_Riv
+Rivulet : EXCLUSIVEROOM : HH_11_Riv
+Rivulet : EXCLUSIVEROOM : HH_12_Riv
+Rivulet : EXCLUSIVEROOM : HH_13_Riv
+Rivulet : EXCLUSIVEROOM : HH_14_Riv
+Rivulet : EXCLUSIVEROOM : HH_15_Riv
+Rivulet : EXCLUSIVEROOM : HH_16_Riv
+Rivulet : EXCLUSIVEROOM : HH_17_Riv
+Rivulet : EXCLUSIVEROOM : HH_18_Riv
+Rivulet : EXCLUSIVEROOM : HH_19_Riv
+Rivulet : EXCLUSIVEROOM : HH_20_Riv
+Rivulet : EXCLUSIVEROOM : HH_21_Riv
+Rivulet : EXCLUSIVEROOM : HH_22_Riv
+Rivulet : EXCLUSIVEROOM : HH_23_Riv
+Rivulet : EXCLUSIVEROOM : HH_24_Riv
+Rivulet : EXCLUSIVEROOM : HH_26_Riv
+Rivulet : EXCLUSIVEROOM : HH_28_Riv
+Rivulet : EXCLUSIVEROOM : HH_29_Riv
+Rivulet : EXCLUSIVEROOM : HH_S01_Riv
+Rivulet : EXCLUSIVEROOM : GATE_DS_HH_Riv
+Rivulet : EXCLUSIVEROOM : GATE_SB_HH_Riv
+
+Rivulet : HH_25 : HH_22 : HH_22_Riv
+Rivulet : HH_25 : HH_24 : HH_24_Riv
+Rivulet : HH_30 : GATE_SB_HH : GATE_SB_HH_Riv
+Rivulet : HH_30 : HH_26 : HH_26_Riv
+Rivulet : HH_31 : HH_28 : HH_28_Riv
+
+Rivulet : HIDEROOM : GATE_HH_GW
+Rivulet : HIDEROOM : HH_01
+Rivulet : HIDEROOM : HH_02
+Rivulet : HIDEROOM : HH_03
+Rivulet : HIDEROOM : HH_04
+Rivulet : HIDEROOM : HH_05
+Rivulet : HIDEROOM : HH_06
+Rivulet : HIDEROOM : HH_07
+Rivulet : HIDEROOM : HH_08
+Rivulet : HIDEROOM : HH_09
+Rivulet : HIDEROOM : HH_10
+Rivulet : HIDEROOM : HH_11
+Rivulet : HIDEROOM : HH_12
+Rivulet : HIDEROOM : HH_13
+Rivulet : HIDEROOM : HH_14
+Rivulet : HIDEROOM : HH_15
+Rivulet : HIDEROOM : HH_16
+Rivulet : HIDEROOM : HH_17
+Rivulet : HIDEROOM : HH_18
+Rivulet : HIDEROOM : HH_19
+Rivulet : HIDEROOM : HH_20
+Rivulet : HIDEROOM : HH_21
+Rivulet : HIDEROOM : HH_22
+Rivulet : HIDEROOM : HH_23
+Rivulet : HIDEROOM : HH_24
+Rivulet : HIDEROOM : HH_26
+Rivulet : HIDEROOM : HH_28
+Rivulet : HIDEROOM : HH_29
+Rivulet : HIDEROOM : HH_S01
+Rivulet : HIDEROOM : HH_S03
+Rivulet : HIDEROOM : GATE_DS_HH
+Rivulet : HIDEROOM : GATE_SB_HH
+
+Saint : EXCLUSIVEROOM : GATE_HH_GW_Saint
+Saint : EXCLUSIVEROOM : HH_01_Saint
+Saint : EXCLUSIVEROOM : HH_02_Saint
+Saint : EXCLUSIVEROOM : HH_03_Saint
+Saint : EXCLUSIVEROOM : HH_04_Saint
+Saint : EXCLUSIVEROOM : HH_05_Saint
+Saint : EXCLUSIVEROOM : HH_06_Saint
+Saint : EXCLUSIVEROOM : HH_07_Saint
+Saint : EXCLUSIVEROOM : HH_08_Saint
+Saint : EXCLUSIVEROOM : HH_09_Saint
+Saint : EXCLUSIVEROOM : HH_10_Saint
+Saint : EXCLUSIVEROOM : HH_11_Saint
+Saint : EXCLUSIVEROOM : HH_12_Saint
+Saint : EXCLUSIVEROOM : HH_13_Saint
+Saint : EXCLUSIVEROOM : HH_14_Saint
+Saint : EXCLUSIVEROOM : HH_15_Saint
+Saint : EXCLUSIVEROOM : HH_16_Saint
+Saint : EXCLUSIVEROOM : HH_17_Saint
+Saint : EXCLUSIVEROOM : HH_18_Saint
+Saint : EXCLUSIVEROOM : HH_19_Saint
+Saint : EXCLUSIVEROOM : HH_20_Saint
+Saint : EXCLUSIVEROOM : HH_21_Saint
+Saint : EXCLUSIVEROOM : HH_22_Saint
+Saint : EXCLUSIVEROOM : HH_23_Saint
+Saint : EXCLUSIVEROOM : HH_24_Saint
+Saint : EXCLUSIVEROOM : HH_26_Saint
+Saint : EXCLUSIVEROOM : HH_27_Saint
+Saint : EXCLUSIVEROOM : HH_29_Saint
+Saint : EXCLUSIVEROOM : HH_S01_Saint
+Saint : EXCLUSIVEROOM : GATE_DS_HH_Saint
+Saint : EXCLUSIVEROOM : GATE_SB_HH_Saint
+
+Saint : HH_25 : HH_22 : HH_22_Saint
+Saint : HH_25 : HH_24 : HH_24_Saint
+Saint : HH_30 : GATE_SB_HH : GATE_SB_HH_Saint
+Saint : HH_30 : HH_26 : HH_26_Saint
+Saint : HH_25 : HH_27 : HH_27_Saint
+
+Saint : HIDEROOM : GATE_HH_GW
+Saint : HIDEROOM : HH_01
+Saint : HIDEROOM : HH_02
+Saint : HIDEROOM : HH_03
+Saint : HIDEROOM : HH_04
+Saint : HIDEROOM : HH_05
+Saint : HIDEROOM : HH_06
+Saint : HIDEROOM : HH_07
+Saint : HIDEROOM : HH_08
+Saint : HIDEROOM : HH_09
+Saint : HIDEROOM : HH_10
+Saint : HIDEROOM : HH_11
+Saint : HIDEROOM : HH_12
+Saint : HIDEROOM : HH_13
+Saint : HIDEROOM : HH_14
+Saint : HIDEROOM : HH_15
+Saint : HIDEROOM : HH_16
+Saint : HIDEROOM : HH_17
+Saint : HIDEROOM : HH_18
+Saint : HIDEROOM : HH_19
+Saint : HIDEROOM : HH_20
+Saint : HIDEROOM : HH_21
+Saint : HIDEROOM : HH_22
+Saint : HIDEROOM : HH_23
+Saint : HIDEROOM : HH_24
+Saint : HIDEROOM : HH_26
+Saint : HIDEROOM : HH_27
+Saint : HIDEROOM : HH_28
+Saint : HIDEROOM : HH_29
+Saint : HIDEROOM : HH_31
+Saint : HIDEROOM : HH_S01
+Saint : HIDEROOM : HH_S03
+Saint : HIDEROOM : GATE_DS_HH
+Saint : HIDEROOM : GATE_SB_HH
+
+Inv : EXCLUSIVEROOM : GATE_DS_HH_Saint
+Inv : EXCLUSIVEROOM : HH_01_Spear
+Inv : EXCLUSIVEROOM : HH_02_Riv
+Inv : EXCLUSIVEROOM : HH_03_Gourmand
+Inv : EXCLUSIVEROOM : HH_04_Saint
+Inv : EXCLUSIVEROOM : HH_05
+Inv : EXCLUSIVEROOM : HH_06_Spear
+Inv : EXCLUSIVEROOM : HH_07_Riv
+Inv : EXCLUSIVEROOM : HH_08_Saint
+Inv : EXCLUSIVEROOM : HH_09_Hunter
+Inv : EXCLUSIVEROOM : HH_10_Saint
+Inv : EXCLUSIVEROOM : HH_11_Monk
+Inv : EXCLUSIVEROOM : HH_12_Monk
+Inv : EXCLUSIVEROOM : HH_13_Saint
+Inv : EXCLUSIVEROOM : HH_14_Arti
+Inv : EXCLUSIVEROOM : HH_15_Monk
+Inv : EXCLUSIVEROOM : HH_16_Riv
+Inv : EXCLUSIVEROOM : HH_17_Arti
+Inv : EXCLUSIVEROOM : HH_18_Saint
+Inv : EXCLUSIVEROOM : HH_19
+Inv : EXCLUSIVEROOM : HH_20_Gourmand
+Inv : EXCLUSIVEROOM : HH_21_Spear
+Inv : EXCLUSIVEROOM : HH_22_Hunter
+Inv : EXCLUSIVEROOM : HH_23_Riv
+Inv : EXCLUSIVEROOM : HH_24_Riv
+Inv : EXCLUSIVEROOM : HH_26_Arti
+Inv : EXCLUSIVEROOM : HH_27_Saint
+Inv : EXCLUSIVEROOM : HH_29_Spear
+Inv : EXCLUSIVEROOM : HH_S01
+Inv : EXCLUSIVEROOM : GATE_HH_GW_Riv
+
+Inv : GATE_HH_GW_Riv : HH_01_Riv : HH_01_Spear
+Inv : HH_01_Spear : GATE_HH_GW_Spear : GATE_HH_GW_Riv
+Inv : HH_01_Spear : HH_02_Spear : HH_02_Riv
+Inv : HH_02_Riv : HH_01_Riv : HH_01_Spear
+Inv : HH_02_Riv : HH_06_Riv : HH_06_Spear
+Inv : HH_02_Riv : HH_13_Riv : HH_13_Saint
+Inv : HH_03_Gourmand : HH_13_Gourmand : HH_13_Saint
+Inv : HH_03_Gourmand : HH_09_Gourmand : HH_09_Hunter
+Inv : HH_03_Gourmand : HH_04 : HH_04_Saint
+Inv : HH_04_Saint : HH_03_Saint : HH_03_Gourmand
+Inv : HH_04_Saint : HH_05_Saint : HH_05
+Inv : HH_05 : HH_06 : HH_06_Spear
+Inv : HH_05 : HH_04 : HH_04_Saint
+Inv : HH_05 : HH_10 : HH_10_Saint
+Inv : HH_05 : HH_21 : HH_21_Spear
+Inv : HH_05 : HH_20 : HH_20_Gourmand
+Inv : HH_06_Spear : HH_07_Spear : HH_07_Riv
+Inv : HH_06_Spear : HH_02_Spear : HH_02_Riv
+Inv : HH_06_Spear : HH_05_Spear : HH_05
+Inv : HH_07_Riv : HH_08_Riv : HH_08_Saint
+Inv : HH_07_Riv : HH_06_Riv : HH_06_Spear
+Inv : HH_07_Riv : HH_11_Riv : HH_11_Monk
+Inv : HH_08_Saint : HH_12_Saint : HH_12_Monk
+Inv : HH_08_Saint : HH_S01_Saint : HH_S01
+Inv : HH_08_Saint : HH_07_Saint : HH_07_Riv
+Inv : HH_09_Hunter : HH_11_Hunter : HH_11_Monk
+Inv : HH_09_Hunter : HH_16_Hunter : HH_16_Riv
+Inv : HH_09_Hunter : HH_03_Hunter : HH_03_Gourmand
+Inv : HH_09_Hunter : HH_10_Hunter : HH_10_Saint
+Inv : HH_09_Hunter : HH_17_Hunter : HH_17_Arti
+Inv : HH_09_Hunter : HH_15_Hunter : HH_15_Monk
+Inv : HH_10_Saint : DISCONNECTED : HH_09_Hunter
+Inv : HH_10_Saint : HH_14_Saint : HH_14_Arti
+Inv : HH_10_Saint : HH_05_Saint : HH_05
+Inv : HH_11_Monk : HH_07_Monk : HH_07_Riv
+Inv : HH_11_Monk : HH_09_Monk : HH_09_Hunter
+Inv : HH_12_Monk : GATE_DS_HH_Monk : GATE_DS_HH_Saint
+Inv : HH_12_Monk : HH_08_Monk : HH_08_Saint
+Inv : HH_13_Saint : HH_02_Saint : HH_02_Riv
+Inv : HH_13_Saint : HH_03_Saint : HH_03_Gourmand
+Inv : HH_14_Arti : HH_10_Arti : HH_10_Saint
+Inv : HH_14_Arti : HH_24_Arti : HH_24_Riv
+Inv : HH_15_Monk : HH_09_Monk : HH_09_Hunter
+Inv : HH_15_Monk : HH_29_Monk : HH_29_Spear
+Inv : HH_15_Monk : HH_21_Monk : HH_21_Spear
+Inv : HH_16_Riv : HH_09_Riv : HH_09_Hunter
+Inv : HH_16_Riv : HH_26_Riv : HH_26_Arti
+Inv : HH_17_Arti : HH_09_Arti : HH_09_Hunter
+Inv : HH_17_Arti : HH_18_Arti : HH_18_Saint
+Inv : HH_18_Saint : HH_20_Saint : HH_20_Gourmand
+Inv : HH_18_Saint : HH_17_Saint : HH_17_Arti
+Inv : HH_18_Saint : HH_19_Saint : HH_19
+Inv : HH_19 : HH_22 : HH_22_Hunter
+Inv : HH_19 : HH_18 : HH_18_Saint
+Inv : HH_20_Gourmand : HH_18_Gourmand : HH_18_Saint
+Inv : HH_20_Gourmand : HH_05_Gourmand : HH_05
+Inv : HH_21_Spear : HH_05_Spear : HH_05
+Inv : HH_21_Spear : HH_15_Spear : HH_15_Monk
+Inv : HH_21_Spear : HH_22_Spear : HH_22_Hunter
+Inv : HH_22_Hunter : HH_21_Hunter : HH_21_Spear
+Inv : HH_22_Hunter : HH_19_Hunter : HH_19
+Inv : HH_23_Riv : HH_26_Riv : HH_26_Arti
+Inv : HH_24_Riv : HH_14_Riv : HH_14_Arti
+Inv : HH_24_Riv : HH_21_Riv : HH_21_Spear
+Inv : HH_25 : HH_24 : HH_24_Riv
+Inv : HH_25 : HH_22 : HH_22_Hunter
+Inv : HH_25 : HH_27 : HH_27_Saint
+Inv : HH_26_Arti : HH_16_Arti : HH_16_Riv
+Inv : HH_26_Arti : HH_23_Arti : HH_23_Riv
+Inv : HH_29_Spear : HH_15_Spear : HH_15_Monk
+Inv : HH_30 : HH_26 : HH_26_Arti
+Inv : HH_S01 : HH_08 : HH_08_Saint
+Inv : HH_S03 : HH_21 : HH_21_Spear
+Inv : GATE_HH_SL : HH_29 : HH_29_Spear
+Inv : GATE_SB_HH : HH_26 : HH_26_Arti
+
+Inv : HIDEROOM : GATE_HH_GW
+Inv : HIDEROOM : HH_01
+Inv : HIDEROOM : HH_02
+Inv : HIDEROOM : HH_03
+Inv : HIDEROOM : HH_04
+Inv : HIDEROOM : HH_06
+Inv : HIDEROOM : HH_07
+Inv : HIDEROOM : HH_08
+Inv : HIDEROOM : HH_09
+Inv : HIDEROOM : HH_10
+Inv : HIDEROOM : HH_11
+Inv : HIDEROOM : HH_12
+Inv : HIDEROOM : HH_13
+Inv : HIDEROOM : HH_14
+Inv : HIDEROOM : HH_15
+Inv : HIDEROOM : HH_16
+Inv : HIDEROOM : HH_17
+Inv : HIDEROOM : HH_18
+Inv : HIDEROOM : HH_20
+Inv : HIDEROOM : HH_21
+Inv : HIDEROOM : HH_22
+Inv : HIDEROOM : HH_23
+Inv : HIDEROOM : HH_24
+Inv : HIDEROOM : HH_26
+Inv : HIDEROOM : HH_27
+Inv : HIDEROOM : HH_28
+Inv : HIDEROOM : HH_29
+Inv : HIDEROOM : HH_31
+Inv : HIDEROOM : GATE_DS_HH
+END CONDITIONAL LINKS
+
+ROOMS
+HH_S01_Spear : HH_08_Spear : SHELTER
+HH_S01_Arti : HH_08_Arti : SHELTER
+HH_S01_Hunter : HH_08_Hunter : SHELTER
+HH_S01_Gourmand : HH_08_Gourmand : SHELTER
+HH_S01 : HH_08 : SHELTER
+HH_S01_Monk : HH_08_Monk : SHELTER
+HH_S01_Riv : HH_08_Riv : SHELTER
+HH_S01_Saint : HH_08_Saint : SHELTER
+HH_S02 : HH_30 : SHELTER
+HH_S03 : HH_21 : SHELTER
+
+(Spear)GATE_HH_GW_Spear : HH_01_Spear, DISCONNECTED : GATE
+(X-Spear)GATE_HH_GW_Spear : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Spear,Inv)HH_01_Spear : GATE_HH_GW_Spear, HH_02_Spear
+(X-Spear,Inv)HH_01_Spear : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Spear)HH_02_Spear : HH_01_Spear, HH_06_Spear, HH_13_Spear : SWARMROOM
+(X-Spear)HH_02_Spear : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Spear)HH_03_Spear : HH_13_Spear, HH_09_Spear, HH_04
+(X-Spear)HH_03_Spear : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Spear)HH_05_Spear : HH_06_Spear, HH_04, HH_10_Spear, HH_21_Spear, HH_20_Spear : SWARMROOM
+(X-Spear)HH_05_Spear : DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Spear,Inv)HH_06_Spear : HH_07_Spear, HH_02_Spear, HH_05_Spear
+(X-Spear,Inv)HH_06_Spear : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Spear)HH_07_Spear : HH_08_Spear, HH_06_Spear, HH_09_Spear : SWARMROOM
+(X-Spear)HH_07_Spear : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Spear)HH_08_Spear : HH_12_Spear, HH_S01_Spear, HH_07_Spear
+(X-Spear)HH_08_Spear : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Spear)HH_09_Spear : HH_07_Spear, HH_16_Spear, HH_03_Spear, HH_10_Spear, HH_18_Spear, HH_15_Spear
+(X-Spear)HH_09_Spear : DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Spear)HH_10_Spear : HH_09_Spear, HH_14_Spear, HH_05_Spear
+(X-Spear)HH_10_Spear : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Spear)HH_12_Spear : GATE_DS_HH_Spear, HH_08_Spear
+(X-Spear)HH_12_Spear : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Spear)HH_13_Spear : HH_02_Spear, HH_03_Spear
+(X-Spear)HH_13_Spear : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Spear)HH_14_Spear : DISCONNECTED, HH_10_Spear, HH_24_Spear
+(X-Spear)HH_14_Spear : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Spear)HH_15_Spear : HH_09_Spear, HH_29_Spear, HH_21_Spear
+(X-Spear)HH_15_Spear : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Spear)HH_16_Spear : HH_09_Spear, HH_26_Spear, HH_23_Spear
+(X-Spear)HH_16_Spear : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Spear)HH_17_Spear : HH_20_Spear, HH_18_Spear
+(X-Spear)HH_17_Spear : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Spear)HH_18_Spear : HH_09_Spear, HH_17_Spear, HH_19_Spear
+(X-Spear)HH_18_Spear : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Spear)HH_19_Spear : HH_22_Spear, HH_18_Spear
+(X-Spear)HH_19_Spear : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Spear)HH_20_Spear : HH_05_Spear, HH_17_Spear
+(X-Spear)HH_20_Spear : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Spear,Inv)HH_21_Spear : HH_05_Spear, HH_24_Spear, HH_S03, HH_15_Spear, HH_22_Spear
+(X-Spear,Inv)HH_21_Spear : DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Spear)HH_22_Spear : HH_21_Spear, HH_25, HH_19_Spear
+(X-Spear)HH_22_Spear : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Spear)HH_23_Spear : HH_26_Spear, HH_16_Spear, HH_24_Spear
+(X-Spear)HH_23_Spear : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Spear)HH_24_Spear : HH_23_Spear, HH_14_Spear, HH_21_Spear, HH_25
+(X-Spear)HH_24_Spear : DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Spear)HH_26_Spear : HH_30, HH_16_Spear, HH_23_Spear : SWARMROOM
+(X-Spear)HH_26_Spear : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Spear,Inv)HH_29_Spear : GATE_HH_SL, HH_15_Spear
+(X-Spear,Inv)HH_29_Spear : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Spear)GATE_DS_HH_Spear : DISCONNECTED, HH_12_Spear : GATE
+(X-Spear)GATE_DS_HH_Spear : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Spear)GATE_SB_HH_Spear : DISCONNECTED, HH_30 : GATE
+(X-Spear)GATE_SB_HH_Spear : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+
+(Artificer)GATE_HH_GW_Arti : HH_01_Arti, DISCONNECTED : GATE
+(X-Artificer)GATE_HH_GW_Arti : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Artificer)HH_01_Arti : GATE_HH_GW_Arti, HH_02_Arti
+(X-Artificer)HH_01_Arti : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Artificer)HH_02_Arti : HH_01_Arti, HH_06_Arti, HH_13_Arti : SWARMROOM
+(X-Artificer)HH_02_Arti : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Artificer)HH_03_Arti : HH_13_Arti, HH_09_Arti, HH_04
+(X-Artificer)HH_03_Arti : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Artificer)HH_05_Arti : HH_06_Arti, HH_04, HH_10_Arti, HH_21_Arti, HH_20_Arti : SWARMROOM
+(X-Artificer)HH_05_Arti : DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Artificer)HH_06_Arti : HH_07_Arti, HH_02_Arti, HH_05_Arti
+(X-Artificer)HH_06_Arti : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Artificer)HH_07_Arti : HH_08_Arti, HH_06_Arti, HH_09_Arti : SWARMROOM
+(X-Artificer)HH_07_Arti : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Artificer)HH_08_Arti : HH_12_Arti, HH_S01_Arti, HH_07_Arti
+(X-Artificer)HH_08_Arti : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Artificer)HH_09_Arti : HH_07_Arti, HH_16_Arti, HH_03_Arti, HH_10_Arti, HH_18_Arti, HH_15_Arti
+(X-Artificer)HH_09_Arti : DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Artificer)HH_10_Arti : HH_09_Arti, HH_14_Arti, HH_05_Arti
+(X-Artificer)HH_10_Arti : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Artificer)HH_12_Arti : GATE_DS_HH_Arti, HH_08_Arti
+(X-Artificer)HH_12_Arti : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Artificer)HH_13_Arti : HH_02_Arti, HH_03_Arti
+(X-Artificer)HH_13_Arti : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Artificer,Inv)HH_14_Arti : DISCONNECTED, HH_10_Arti, HH_24_Arti
+(X-Artificer,Inv)HH_14_Arti : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Artificer)HH_15_Arti : HH_09_Arti, HH_29_Arti, HH_21_Arti
+(X-Artificer)HH_15_Arti : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Artificer)HH_16_Arti : HH_09_Arti, HH_26_Arti, HH_23_Arti
+(X-Artificer)HH_16_Arti : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Artificer,Inv)HH_17_Arti : HH_20_Arti, HH_18_Arti
+(X-Artificer,Inv)HH_17_Arti : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Artificer)HH_18_Arti : HH_09_Arti, HH_17_Arti, HH_19_Arti
+(X-Artificer)HH_18_Arti : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Artificer)HH_19_Arti : HH_22_Arti, HH_18_Arti
+(X-Artificer)HH_19_Arti : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Artificer)HH_20_Arti : HH_05_Arti, HH_17_Arti
+(X-Artificer)HH_20_Arti : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Artificer)HH_21_Arti : HH_05_Arti, HH_24_Arti, HH_S03, HH_15_Arti, HH_22_Arti
+(X-Artificer)HH_21_Arti : DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Artificer)HH_22_Arti : HH_21_Arti, HH_25, HH_19_Arti
+(X-Artificer)HH_22_Arti : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Artificer)HH_23_Arti : HH_26_Arti, HH_16_Arti, HH_24_Arti
+(X-Artificer)HH_23_Arti : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Artificer)HH_24_Arti : HH_23_Arti, HH_14_Arti, HH_21_Arti, HH_25
+(X-Artificer)HH_24_Arti : DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Artificer,Inv)HH_26_Arti : HH_30, HH_16_Arti, HH_23_Arti : SWARMROOM
+(X-Artificer,Inv)HH_26_Arti : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Artificer)HH_29_Arti : GATE_HH_SL, HH_15_Arti
+(X-Artificer)HH_29_Arti : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Artificer)GATE_DS_HH_Arti : DISCONNECTED, HH_12_Arti : GATE
+(X-Artificer)GATE_DS_HH_Arti : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Artificer)GATE_SB_HH_Arti : DISCONNECTED, HH_30 : GATE
+(X-Artificer)GATE_SB_HH_Arti : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Artificer)GATE_SB_HH_Arti : DISCONNECTED, HH_30 : GATE
+(X-Artificer)GATE_SB_HH_Arti : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+
+(Red)GATE_HH_GW_Hunter : HH_01_Hunter, DISCONNECTED : GATE
+(X-Red)GATE_HH_GW_Hunter : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Red)HH_01_Hunter : GATE_HH_GW_Hunter, HH_02_Hunter
+(X-Red)HH_01_Hunter : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Red)HH_02_Hunter : HH_01_Hunter, HH_06_Hunter, HH_13_Hunter : SWARMROOM
+(X-Red)HH_02_Hunter : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Red)HH_03_Hunter : HH_13_Hunter, HH_09_Hunter, HH_04
+(X-Red)HH_03_Hunter : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Red)HH_05_Hunter : HH_06_Hunter, HH_04, HH_10_Hunter, HH_21_Hunter, HH_20_Hunter : SWARMROOM
+(X-Red)HH_05_Hunter : DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Red)HH_06_Hunter : HH_07_Hunter, HH_02_Hunter, HH_05_Hunter
+(X-Red)HH_06_Hunter : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Red)HH_07_Hunter : HH_08_Hunter, HH_06_Hunter, HH_11_Hunter : SWARMROOM
+(X-Red)HH_07_Hunter : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Red)HH_08_Hunter : HH_12_Hunter, HH_S01_Hunter, HH_07_Hunter
+(X-Red)HH_08_Hunter : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Red,Inv)HH_09_Hunter : HH_11_Hunter, HH_16_Hunter, HH_03_Hunter, HH_10_Hunter, HH_18_Hunter, HH_15_Hunter
+(X-Red,Inv)HH_09_Hunter : DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Red)HH_10_Hunter : HH_09_Hunter, HH_14_Hunter, HH_05_Hunter
+(X-Red)HH_10_Hunter : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Red)HH_11_Hunter : HH_07_Hunter, HH_09_Hunter
+(X-Red)HH_11_Hunter : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Red)HH_12_Hunter : GATE_DS_HH_Hunter, HH_08_Hunter
+(X-Red)HH_12_Hunter : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Red)HH_13_Hunter : HH_02_Hunter, HH_03_Hunter
+(X-Red)HH_13_Hunter : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Red)HH_14_Hunter : DISCONNECTED, HH_10_Hunter, HH_24_Hunter
+(X-Red)HH_14_Hunter : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Red)HH_15_Hunter : HH_09_Hunter, HH_29_Hunter, HH_21_Hunter
+(X-Red)HH_15_Hunter : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Red)HH_16_Hunter : HH_09_Hunter, HH_26_Hunter, HH_23_Hunter
+(X-Red)HH_16_Hunter : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Red)HH_17_Hunter : HH_20_Hunter, HH_18_Hunter
+(X-Red)HH_17_Hunter : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Red)HH_18_Hunter : HH_09_Hunter, HH_17_Hunter, HH_19_Hunter
+(X-Red)HH_18_Hunter : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Red)HH_19_Hunter : HH_22_Hunter, HH_18_Hunter
+(X-Red)HH_19_Hunter : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Red)HH_20_Hunter : HH_05_Hunter, HH_17_Hunter
+(X-Red)HH_20_Hunter : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Red)HH_21_Hunter : HH_05_Hunter, HH_24_Hunter, HH_S03, HH_15_Hunter, HH_22_Hunter
+(X-Red)HH_21_Hunter : DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Red,Inv)HH_22_Hunter : HH_21_Hunter, HH_25, HH_19_Hunter
+(X-Red,Inv)HH_22_Hunter : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Red)HH_23_Hunter : HH_26_Hunter, HH_16_Hunter, HH_24_Hunter
+(X-Red)HH_23_Hunter : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Red)HH_24_Hunter : HH_23_Hunter, HH_14_Hunter, HH_21_Hunter, HH_25
+(X-Red)HH_24_Hunter : DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Red)HH_26_Hunter : HH_30, HH_16_Hunter, HH_23_Hunter : SWARMROOM
+(X-Red)HH_26_Hunter : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Red)HH_29_Hunter : GATE_HH_SL, HH_15_Hunter
+(X-Red)HH_29_Hunter : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Red)GATE_DS_HH_Hunter : DISCONNECTED, HH_12_Hunter : GATE
+(X-Red)GATE_DS_HH_Hunter : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Red)GATE_SB_HH_Hunter : DISCONNECTED, HH_30 : GATE
+(X-Red)GATE_SB_HH_Hunter : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+
+(Gourmand)GATE_HH_GW_Gourmand : HH_01_Gourmand, DISCONNECTED : GATE
+(X-Gourmand)GATE_HH_GW_Gourmand : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Gourmand)HH_01_Gourmand : GATE_HH_GW_Gourmand, HH_02_Gourmand
+(X-Gourmand)HH_01_Gourmand : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Gourmand)HH_02_Gourmand : HH_01_Gourmand, HH_06_Gourmand, HH_13_Gourmand : SWARMROOM
+(X-Gourmand)HH_02_Gourmand : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Gourmand,Inv)HH_03_Gourmand : HH_13_Gourmand, HH_09_Gourmand, HH_04
+(X-Gourmand,Inv)HH_03_Gourmand : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Gourmand)HH_05_Gourmand : HH_06_Gourmand, HH_04, HH_10_Gourmand, HH_21_Gourmand, HH_20_Gourmand : SWARMROOM
+(X-Gourmand)HH_05_Gourmand : DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Gourmand)HH_06_Gourmand : HH_07_Gourmand, HH_02_Gourmand, HH_05_Gourmand
+(X-Gourmand)HH_06_Gourmand : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Gourmand)HH_07_Gourmand : HH_08_Gourmand, HH_06_Gourmand, HH_11_Gourmand : SWARMROOM
+(X-Gourmand)HH_07_Gourmand : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Gourmand)HH_08_Gourmand : HH_12_Gourmand, HH_S01_Gourmand, HH_07_Gourmand
+(X-Gourmand)HH_08_Gourmand : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Gourmand)HH_09_Gourmand : HH_11_Gourmand, HH_16_Gourmand, HH_03_Gourmand, HH_10_Gourmand, HH_18_Gourmand, HH_15_Gourmand
+(X-Gourmand)HH_09_Gourmand : DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Gourmand)HH_10_Gourmand : HH_09_Gourmand, HH_14_Gourmand, HH_05_Gourmand
+(X-Gourmand)HH_10_Gourmand : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Gourmand)HH_11_Gourmand : HH_07_Gourmand, HH_09_Gourmand
+(X-Gourmand)HH_11_Gourmand : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Gourmand)HH_12_Gourmand : GATE_DS_HH_Gourmand, HH_08_Gourmand
+(X-Gourmand)HH_12_Gourmand : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Gourmand)HH_13_Gourmand : HH_02_Gourmand, HH_03_Gourmand
+(X-Gourmand)HH_13_Gourmand : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Gourmand)HH_14_Gourmand : DISCONNECTED, HH_10_Gourmand, HH_24_Gourmand
+(X-Gourmand)HH_14_Gourmand : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Gourmand)HH_15_Gourmand : HH_09_Gourmand, HH_29_Gourmand, HH_21_Gourmand
+(X-Gourmand)HH_15_Gourmand : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Gourmand)HH_16_Gourmand : HH_09_Gourmand, HH_26_Gourmand, HH_23_Gourmand
+(X-Gourmand)HH_16_Gourmand : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Gourmand)HH_17_Gourmand : HH_20_Gourmand, HH_18_Gourmand
+(X-Gourmand)HH_17_Gourmand : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Gourmand)HH_18_Gourmand : HH_09_Gourmand, HH_17_Gourmand, HH_19_Gourmand
+(X-Gourmand)HH_18_Gourmand : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Gourmand)HH_19_Gourmand : HH_22_Gourmand, HH_18_Gourmand
+(X-Gourmand)HH_19_Gourmand : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Gourmand,Inv)HH_20_Gourmand : HH_05_Gourmand, HH_17_Gourmand
+(X-Gourmand,Inv)HH_20_Gourmand : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Gourmand)HH_21_Gourmand : HH_05_Gourmand, HH_24_Gourmand, HH_S03, HH_15_Gourmand, HH_22_Gourmand
+(X-Gourmand)HH_21_Gourmand : DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Gourmand)HH_22_Gourmand : HH_21_Gourmand, HH_25, HH_19_Gourmand
+(X-Gourmand)HH_22_Gourmand : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Gourmand)HH_23_Gourmand : HH_26_Gourmand, HH_16_Gourmand, HH_24_Gourmand
+(X-Gourmand)HH_23_Gourmand : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Gourmand)HH_24_Gourmand : HH_23_Gourmand, HH_14_Gourmand, HH_21_Gourmand, HH_25
+(X-Gourmand)HH_24_Gourmand : DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Gourmand)HH_26_Gourmand : HH_30, HH_16_Gourmand, HH_23_Gourmand : SWARMROOM
+(X-Gourmand)HH_26_Gourmand : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Gourmand)HH_29_Gourmand : GATE_HH_SL, HH_15_Gourmand
+(X-Gourmand)HH_29_Gourmand : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Gourmand)GATE_DS_HH_Gourmand : DISCONNECTED, HH_12_Gourmand : GATE
+(X-Gourmand)GATE_DS_HH_Gourmand : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Gourmand)GATE_SB_HH_Gourmand : DISCONNECTED, HH_30 : GATE
+(X-Gourmand)GATE_SB_HH_Gourmand : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)GATE_HH_GW : HH_01, DISCONNECTED : GATE
+(Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)GATE_HH_GW : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_01 : GATE_HH_GW, HH_02
+(Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_01 : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_02 : HH_01, HH_06, HH_13 : SWARMROOM
+(Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_02 : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_03 : HH_13, HH_09, HH_04
+(Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_03 : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(X-Rivulet,Saint,Inv)HH_04 : HH_03, HH_05
+(Rivulet,Saint,Inv)HH_04 : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint)HH_05 : HH_06, HH_04, HH_10, HH_21, HH_20 : SWARMROOM
+(Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint)HH_05 : DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_06 : HH_07, HH_02, HH_05
+(Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_06 : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_07 : HH_08, HH_06, HH_11 : SWARMROOM
+(Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_07 : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_08 : HH_12, HH_S01, HH_07
+(Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_08 : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_09 : HH_11, HH_16, HH_03, HH_10, HH_18, HH_15
+(Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_09 : DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_10 : HH_09, HH_14, HH_05
+(Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_10 : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_11 : HH_07, HH_09
+(Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_11 : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_12 : GATE_DS_HH, HH_08
+(Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_12 : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_13 : HH_02, HH_03
+(Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_13 : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_14 : DISCONNECTED, HH_10, HH_24
+(Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_14 : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_15 : HH_09, HH_29, HH_21
+(Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_15 : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_16 : HH_09, HH_26, HH_23
+(Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_16 : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_17 : HH_20, HH_18
+(Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_17 : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_18 : HH_09, HH_17, HH_19
+(Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_18 : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint)HH_19 : HH_22, HH_18
+(Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint)HH_19 : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_20 : HH_05, HH_17
+(Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_20 : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_21 : HH_05, HH_24, HH_S03, HH_15, HH_22
+(Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_21 : DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_22 : HH_21, HH_25, HH_19
+(Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_22 : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_23 : HH_26, HH_16, HH_24
+(Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_23 : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_24 : HH_23, HH_14, HH_21, HH_25
+(Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_24 : DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+HH_25 : HH_24, HH_22, HH_27, GATE_SB_HH_2 : SWARMROOM
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_26 : HH_30, HH_16, HH_23 : SWARMROOM
+(Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_26 : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(X-Saint,Inv)HH_27 : HH_25, HH_31
+(Saint,Inv)HH_27 : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(X-Rivulet,Saint,Inv)HH_28 : HH_31
+(Rivulet,Saint,Inv)HH_28 : DISCONNECTED : PERF_HEAVY
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_29 : GATE_HH_SL, HH_15
+(Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_29 : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+HH_30 : GATE_SB_HH, HH_26, HH_S02
+(X-Saint,Inv)HH_31 : HH_27, HH_28
+(Saint,Inv)HH_31 : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint)GATE_DS_HH : DISCONNECTED, HH_12 : GATE
+(Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint)GATE_DS_HH : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(X-Rivulet,Saint)GATE_HH_SL : HH_29, DISCONNECTED : GATE
+(Rivulet,Saint)GATE_HH_SL : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint)GATE_SB_HH : DISCONNECTED, HH_30 : GATE
+(Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint)GATE_SB_HH : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+GATE_SB_HH_2 : HH_25, DISCONNECTED : GATE
+
+(Yellow)GATE_HH_GW_Monk : HH_01_Monk, DISCONNECTED : GATE
+(X-Yellow)GATE_HH_GW_Monk : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Yellow)HH_01_Monk : GATE_HH_GW_Monk, HH_02_Monk
+(X-Yellow)HH_01_Monk : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Yellow)HH_02_Monk : HH_01_Monk, HH_06_Monk, HH_13_Monk : SWARMROOM
+(X-Yellow)HH_02_Monk : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Yellow)HH_03_Monk : HH_13_Monk, HH_09_Monk, HH_04
+(X-Yellow)HH_03_Monk : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Yellow)HH_05_Monk : HH_06_Monk, HH_04, HH_10_Monk, HH_21_Monk, HH_20_Monk : SWARMROOM
+(X-Yellow)HH_05_Monk : DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Yellow)HH_06_Monk : HH_07_Monk, HH_02_Monk, HH_05_Monk
+(X-Yellow)HH_06_Monk : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Yellow)HH_07_Monk : HH_08_Monk, HH_06_Monk, HH_11_Monk : SWARMROOM
+(X-Yellow)HH_07_Monk : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Yellow)HH_08_Monk : HH_12_Monk, HH_S01_Monk, HH_07_Monk
+(X-Yellow)HH_08_Monk : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Yellow)HH_09_Monk : HH_11_Monk, HH_16_Monk, HH_03_Monk, HH_10_Monk, HH_18_Monk, HH_15_Monk
+(X-Yellow)HH_09_Monk : DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Yellow)HH_10_Monk : HH_09_Monk, HH_14_Monk, HH_05_Monk
+(X-Yellow)HH_10_Monk : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Yellow,Inv)HH_11_Monk : HH_07_Monk, HH_09_Monk
+(X-Yellow,Inv)HH_11_Monk : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Yellow,Inv)HH_12_Monk : GATE_DS_HH_Monk, HH_08_Monk
+(X-Yellow,Inv)HH_12_Monk : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Yellow)HH_13_Monk : HH_02_Monk, HH_03_Monk
+(X-Yellow)HH_13_Monk : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Yellow)HH_14_Monk : DISCONNECTED, HH_10_Monk, HH_24_Monk
+(X-Yellow)HH_14_Monk : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Yellow,Inv)HH_15_Monk : HH_09_Monk, HH_29_Monk, HH_21_Monk
+(X-Yellow,Inv)HH_15_Monk : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Yellow)HH_16_Monk : HH_09_Monk, HH_26_Monk, HH_23_Monk
+(X-Yellow)HH_16_Monk : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Yellow)HH_17_Monk : HH_20_Monk, HH_18_Monk
+(X-Yellow)HH_17_Monk : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Yellow)HH_18_Monk : HH_09_Monk, HH_17_Monk, HH_19_Monk
+(X-Yellow)HH_18_Monk : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Yellow)HH_19_Monk : HH_22_Monk, HH_18_Monk
+(X-Yellow)HH_19_Monk : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Yellow)HH_20_Monk : HH_05_Monk, HH_17_Monk
+(X-Yellow)HH_20_Monk : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Yellow)HH_21_Monk : HH_05_Monk, HH_24_Monk, HH_S03, HH_15_Monk, HH_22_Monk
+(X-Yellow)HH_21_Monk : DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Yellow)HH_22_Monk : HH_21_Monk, HH_25, HH_19_Monk
+(X-Yellow)HH_22_Monk : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Yellow)HH_23_Monk : HH_26_Monk, HH_16_Monk, HH_24_Monk
+(X-Yellow)HH_23_Monk : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Yellow)HH_24_Monk : HH_23_Monk, HH_14_Monk, HH_21_Monk, HH_25
+(X-Yellow)HH_24_Monk : DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Yellow)HH_26_Monk : HH_30, HH_16_Monk, HH_23_Monk : SWARMROOM
+(X-Yellow)HH_26_Monk : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Yellow)HH_29_Monk : GATE_HH_SL, HH_15_Monk
+(X-Yellow)HH_29_Monk : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Yellow)GATE_DS_HH_Monk : DISCONNECTED, HH_12_Monk : GATE
+(X-Yellow)GATE_DS_HH_Monk : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Yellow)GATE_SB_HH_Monk : DISCONNECTED, HH_30 : GATE
+(X-Yellow)GATE_SB_HH_Monk : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+
+(Rivulet,Inv)GATE_HH_GW_Riv : HH_01_Riv, DISCONNECTED : GATE
+(X-Rivulet,Inv)GATE_HH_GW_Riv : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Rivulet)HH_01_Riv : GATE_HH_GW_Riv, HH_02_Riv
+(X-Rivulet)HH_01_Riv : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Rivulet,Inv)HH_02_Riv : HH_01_Riv, HH_06_Riv, HH_13_Riv : SWARMROOM
+(X-Rivulet,Inv)HH_02_Riv : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Rivulet)HH_03_Riv : HH_13_Riv, HH_09_Riv, HH_04_Riv
+(X-Rivulet)HH_03_Riv : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Rivulet)HH_04_Riv : HH_03_Riv, HH_05_Riv
+(X-Rivulet)HH_04_Riv : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Rivulet)HH_05_Riv : HH_06_Riv, HH_04_Riv, HH_10_Riv, HH_21_Riv, HH_20_Riv : SWARMROOM
+(X-Rivulet)HH_05_Riv : DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Rivulet)HH_06_Riv : HH_07_Riv, HH_02_Riv, HH_05_Riv
+(X-Rivulet)HH_06_Riv : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Rivulet,Inv)HH_07_Riv : HH_08_Riv, HH_06_Riv, HH_11_Riv : SWARMROOM
+(X-Rivulet,Inv)HH_07_Riv : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Rivulet)HH_08_Riv : HH_12_Riv, HH_S01_Riv, HH_07_Riv
+(X-Rivulet)HH_08_Riv : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Rivulet)HH_09_Riv : HH_11_Riv, HH_16_Riv, HH_03_Riv, HH_10_Riv, HH_18_Riv, HH_15_Riv
+(X-Rivulet)HH_09_Riv : DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Rivulet)HH_10_Riv : HH_09_Riv, HH_14_Riv, HH_05_Riv
+(X-Rivulet)HH_10_Riv : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Rivulet)HH_11_Riv : HH_07_Riv, HH_09_Riv
+(X-Rivulet)HH_11_Riv : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Rivulet,Inv)HH_12_Riv : GATE_DS_HH_Riv, HH_08_Riv
+(X-Rivulet)HH_12_Riv : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Rivulet)HH_13_Riv : HH_02_Riv, HH_03_Riv
+(X-Rivulet)HH_13_Riv : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Rivulet)HH_14_Riv : DISCONNECTED, HH_10_Riv, HH_24_Riv
+(X-Rivulet)HH_14_Riv : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Rivulet)HH_15_Riv : HH_09_Riv, HH_29_Riv, HH_21_Riv
+(X-Rivulet)HH_15_Riv : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Rivulet,Inv)HH_16_Riv : HH_09_Riv, HH_26_Riv, DISCONNECTED
+(X-Rivulet,Inv)HH_16_Riv : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Rivulet)HH_17_Riv : HH_20_Riv, HH_18_Riv
+(X-Rivulet)HH_17_Riv : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Rivulet)HH_18_Riv : HH_09_Riv, HH_17_Riv, HH_19_Riv
+(X-Rivulet)HH_18_Riv : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Rivulet)HH_19_Riv : HH_22_Riv, HH_18_Riv
+(X-Rivulet)HH_19_Riv : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Rivulet)HH_20_Riv : HH_05_Riv, HH_17_Riv
+(X-Rivulet)HH_20_Riv : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Rivulet)HH_21_Riv : HH_05_Riv, HH_24_Riv, HH_15_Riv, HH_22_Riv
+(X-Rivulet)HH_21_Riv : DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Rivulet)HH_22_Riv : HH_21_Riv, HH_25, HH_19_Riv
+(X-Rivulet)HH_22_Riv : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Rivulet,Inv)HH_23_Riv : HH_26_Riv, DISCONNECTED, HH_24_Riv
+(X-Rivulet,Inv)HH_23_Riv : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Rivulet,Inv)HH_24_Riv : HH_23_Riv, HH_14_Riv, HH_21_Riv, HH_25
+(X-Rivulet,Inv)HH_24_Riv : DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Rivulet)HH_26_Riv : HH_30, HH_16_Riv, HH_23_Riv : SWARMROOM
+(X-Rivulet)HH_26_Riv : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Rivulet)HH_28_Riv : HH_31
+(X-Rivulet)HH_28_Riv : DISCONNECTED : PERF_HEAVY
+(Rivulet)HH_29_Riv : GATE_HH_SL_Riv, HH_15_Riv
+(X-Rivulet)HH_29_Riv : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Rivulet)GATE_DS_HH_Riv : DISCONNECTED, HH_12_Riv : GATE
+(X-Rivulet)GATE_DS_HH_Riv : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Rivulet)GATE_SB_HH_Riv : DISCONNECTED, HH_30 : GATE
+(X-Rivulet)GATE_SB_HH_Riv : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Rivulet)GATE_HH_SL_Riv : HH_29_Riv, DISCONNECTED : GATE
+(X-Rivulet)GATE_HH_SL_Riv : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+
+(Saint)GATE_HH_GW_Saint : HH_01_Saint, DISCONNECTED : GATE
+(X-Saint)GATE_HH_GW_Saint : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Saint)HH_01_Saint : GATE_HH_GW_Saint, HH_02_Saint
+(X-Saint)HH_01_Saint : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Saint)HH_02_Saint : HH_01_Saint, HH_13_Saint : SWARMROOM
+(X-Saint)HH_02_Saint : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Saint)HH_03_Saint : HH_13_Saint, HH_09_Saint, HH_04_Saint
+(X-Saint)HH_03_Saint : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Saint,Inv)HH_04_Saint : HH_03_Saint, HH_05_Saint
+(X-Saint,Inv)HH_04_Saint : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Saint)HH_05_Saint : HH_06_Saint, HH_04_Saint, HH_10_Saint, HH_21_Saint, HH_20_Saint : SWARMROOM
+(X-Saint)HH_05_Saint : DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Saint)HH_06_Saint : HH_07_Saint, DISCONNECTED, HH_05_Saint
+(X-Saint)HH_06_Saint : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Saint)HH_07_Saint : HH_08_Saint, HH_06_Saint, HH_11_Saint : SWARMROOM
+(X-Saint)HH_07_Saint : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Saint,Inv)HH_08_Saint : HH_12_Saint, HH_S01_Saint, HH_07_Saint
+(X-Saint,Inv)HH_08_Saint : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Saint)HH_09_Saint : HH_11_Saint, HH_16_Saint, HH_03_Saint, DISCONNECTED, HH_18_Saint, HH_15_Saint
+(X-Saint)HH_09_Saint : DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Saint,Inv)HH_10_Saint : DISCONNECTED, HH_14_Saint, HH_05_Saint
+(X-Saint,Inv)HH_10_Saint : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Saint)HH_11_Saint : HH_07_Saint, HH_09_Saint
+(X-Saint)HH_11_Saint : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Saint)HH_12_Saint : GATE_DS_HH_Saint, HH_08_Saint
+(X-Saint)HH_12_Saint : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Saint,Inv)HH_13_Saint : HH_02_Saint, HH_03_Saint
+(X-Saint,Inv)HH_13_Saint : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Saint)HH_14_Saint : DISCONNECTED, HH_10_Saint, HH_24_Saint
+(X-Saint)HH_14_Saint : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Saint)HH_15_Saint : HH_09_Saint, HH_29_Saint, HH_21_Saint
+(X-Saint)HH_15_Saint : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Saint)HH_16_Saint : HH_09_Saint, HH_26_Saint, DISCONNECTED
+(X-Saint)HH_16_Saint : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Saint)HH_17_Saint : HH_20_Saint, HH_18_Saint
+(X-Saint)HH_17_Saint : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Saint,Inv)HH_18_Saint : HH_09_Saint, HH_17_Saint, HH_19_Saint
+(X-Saint,Inv)HH_18_Saint : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Saint)HH_19_Saint : HH_22_Saint, HH_18_Saint
+(X-Saint)HH_19_Saint : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Saint)HH_20_Saint : HH_05_Saint, HH_17_Saint
+(X-Saint)HH_20_Saint : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Saint)HH_21_Saint : HH_05_Saint, HH_24_Saint, HH_15_Saint, HH_22_Saint
+(X-Saint)HH_21_Saint : DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Saint)HH_22_Saint : HH_21_Saint, HH_25, HH_19_Saint
+(X-Saint)HH_22_Saint : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Saint)HH_23_Saint : HH_26_Saint, DISCONNECTED, HH_24_Saint
+(X-Saint)HH_23_Saint : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Saint)HH_24_Saint : HH_23_Saint, HH_14_Saint, HH_21_Saint, HH_25
+(X-Saint)HH_24_Saint : DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Saint)HH_26_Saint : HH_30, HH_16_Saint, HH_23_Saint : SWARMROOM
+(X-Saint)HH_26_Saint : DISCONNECTED, DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Saint,Inv)HH_27_Saint : HH_25
+(X-Saint,Inv)HH_27_Saint : DISCONNECTED : PERF_HEAVY
+(Saint)HH_29_Saint : GATE_HH_SL_Saint, HH_15_Saint
+(X-Saint)HH_29_Saint : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Saint,Inv)GATE_DS_HH_Saint : DISCONNECTED, HH_12_Saint : GATE
+(X-Saint,Inv)GATE_DS_HH_Saint : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Saint)GATE_SB_HH_Saint : DISCONNECTED, HH_30 : GATE
+(X-Saint)GATE_SB_HH_Saint : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+(Saint)GATE_HH_SL_Saint : HH_29_Saint, DISCONNECTED : GATE
+(X-Saint)GATE_HH_SL_Saint : DISCONNECTED, DISCONNECTED : PERF_HEAVY
+END ROOMS
+
+CREATURES
+//Spearmaster
+(Spear)OFFSCREEN : 0-Deer-2, 0-Leviathan-{Ignorecycle}
+(Spear)HH_01_Spear : 2-TerrorLongLegs-{Ignorecycle}
+(Spear)LINEAGE : HH_02_Spear : 3 : White-0.35, Cyan-0.45, Seeker-{Mean:1.0}-0
+(Spear)HH_02_Spear : 4-TentaclePlant-{Ignorecycle}
+(Spear)LINEAGE : HH_03_Spear : 3 : Eggbug-0.4, FireBug-0
+(Spear)HH_05_Spear : 5-BigNeedleWorm, 6-JetFish-{Ignorecycle}, 7-Eel-{Ignorecycle}, 8-JetFish-{Ignorecycle}, 9-Eel-{PreCycle}
+(Spear)LINEAGE : HH_06_Spear : 3 : Scutigera-0.3, Centipede-{1.0}-0.4, RedCentipede-0
+(Spear)HH_07_Spear : 3-TentaclePlant-{Ignorecycle}, 4-Scutigera
+(Spear)LINEAGE : HH_08_Spear : 3 : White-0.35, Cyan-0.45, Seeker-{Mean:1.0}-0
+(Spear)HH_09_Spear : 7-JetFish-{Ignorecycle}, 8-JetFish-{Ignorecycle}, 6-Eel-{Ignorecycle}-0, 9-Eel-{PreCycle}
+(Spear)HH_10_Spear : 3-JetFish-{PreCycle}
+(Spear)HH_13_Spear : 2-Small Centipede-{AlternateForm}
+(Spear)HH_14_Spear : 3-Salamander-{Ignorecycle}
+(Spear)LINEAGE : HH_15_Spear : 3 : Eel-{Ignorecycle}-0.45, AquaCenti-{Ignorecycle}-0
+(Spear)HH_16_Spear : 3-Small Centipede-{AlternateForm}
+(Spear)LINEAGE : HH_19_Spear : 2 : Scutigera-0.3, Centipede-{1.0}-0.4, RedCentipede-{Voidsea}-0
+(Spear)HH_21_Spear : 6-TentaclePlant-{Ignorecycle}, 7-TentaclePlant-{Ignorecycle}
+(Spear)HH_22_Spear : 3-FireBug
+(Spear)LINEAGE : HH_23_Spear : 3 : Scutigera-0.3, Centipede-{1.0}-0.4, RedCentipede-0
+(Spear)LINEAGE : HH_25 : 4 : WaterSpitter-0.35, SpitLizard-{Mean:0.9}-0.45, Red-1, Red-{Mean:1.0}-0
+(Spear)HH_26_Spear : 4-Salamander-{PreCycle}
+(Spear)LINEAGE : HH_26_Spear : 3 : WaterSpitter-0.35, SpitLizard-{Mean:0.9}-0.45, Red-1, Red-{Mean:1.0}-0
+
+//Artificer
+(Artificer)OFFSCREEN : 0-Deer-2, 0-Leviathan-{Ignorecycle}
+(Artificer)HH_01_Arti : 2-TerrorLongLegs-{Ignorecycle}
+(Artificer)LINEAGE : HH_02_Arti : 3 : White-0.4, Cyan-0.5, Seeker-{Mean:1.0}-0
+(Artificer)HH_02_Arti : 4-TentaclePlant-{Ignorecycle}
+(Artificer)LINEAGE : HH_03_Arti : 3 : Eggbug-0.5, FireBug-0
+(Artificer)HH_05_Arti : 5-BigNeedleWorm, 6-JetFish-{Ignorecycle}, 7-Eel-{Ignorecycle}, 8-JetFish-{Ignorecycle}, 9-Eel-{PreCycle}
+(Artificer)LINEAGE : HH_06_Arti : 3 : Scutigera-0.35, Centipede-{1.0}-0.45, RedCentipede-0
+(Artificer)HH_07_Arti : 3-TentaclePlant-{Ignorecycle}, 4-Scutigera
+(Artificer)LINEAGE : HH_08_Arti : 3 : White-0.4, Cyan-0.5, Seeker-{Mean:1.0}-0
+(Artificer)HH_09_Arti : 7-JetFish-{Ignorecycle}, 8-JetFish-{Ignorecycle}, 6-Eel-{Ignorecycle}-0, 9-Eel-{PreCycle}
+(Artificer)HH_10_Arti : 3-JetFish-{PreCycle}
+(Artificer)HH_13_Arti : 2-Small Centipede-{AlternateForm}
+(Artificer)HH_14_Arti : 3-Salamander-{Ignorecycle}
+(Artificer)LINEAGE : HH_15_Arti : 3 : Eel-{Ignorecycle}-0.45, AquaCenti-{Ignorecycle}-0
+(Artificer)HH_16_Arti : 3-Small Centipede-{AlternateForm}
+(Artificer)LINEAGE : HH_19_Arti : 2 : Scutigera-0.35, Centipede-{1.0}-0.45, RedCentipede-{Voidsea}-0
+(Artificer)HH_21_Arti : 6-TentaclePlant-{Ignorecycle}, 7-TentaclePlant-{Ignorecycle}
+(Artificer)HH_22_Arti : 3-FireBug
+(Artificer)LINEAGE : HH_23_Arti : 3 : Scutigera-0.35, Centipede-{1.0}-0.45, RedCentipede-0
+(Artificer)LINEAGE : HH_25 : 4 : WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.5, Red-1, Red-{Mean:1.0}-0
+(Artificer)HH_26_Arti : 4-Salamander-{PreCycle}
+(Artificer)LINEAGE : HH_26_Arti : 3 : WaterSpitter-0.4, SpitLizard-{Mean:1.0}-0.5, Red-1, Red-{Mean:1.0}-0
+
+//Hunter
+(Red)OFFSCREEN : 0-Deer-3, 0-Leviathan-{Ignorecycle}
+(Red)LINEAGE : HH_01_Hunter : 2 : DaddyLongLegs-{Ignorecycle}-1, TerrorLongLegs-{Ignorecycle}-0
+(Red)LINEAGE : HH_02_Hunter : 3 : White-0.35, Cyan-0.45, Seeker-{Mean:1.0}-0
+(Red)HH_02_Hunter : 4-TentaclePlant-{Ignorecycle}
+(Red)LINEAGE : HH_03_Hunter : 3 : Eggbug-0.4, FireBug-0
+(Red)HH_05_Hunter : 5-BigNeedleWorm, 6-JetFish-{Ignorecycle}, 7-Eel-{Ignorecycle}, 8-JetFish-{Ignorecycle}, 9-Eel-{PreCycle}
+(Red)LINEAGE : HH_06_Hunter : 3 : Scutigera-0.3, Centipede-{1.0}-0.4, RedCentipede-0
+(Red)HH_07_Hunter : 3-TentaclePlant-{Ignorecycle}
+(Red)LINEAGE : HH_08_Hunter : 3 : White-0.35, Cyan-0.45, Seeker-{Mean:1.0}-0
+(Red)HH_09_Hunter : 7-JetFish-{Ignorecycle}, 8-JetFish-{Ignorecycle}, 9-Eel-{PreCycle}
+(Red)LINEAGE : HH_09_Hunter : 6 : Salamander-{Ignorecycle}-0.35, Eel-{Ignorecycle}-0
+(Red)HH_10_Hunter : 3-JetFish-{PreCycle}
+(Red)HH_11_Hunter : 2-TentaclePlant-{Ignorecycle}
+(Red)HH_13_Hunter : 2-Small Centipede-{AlternateForm}
+(Red)LINEAGE : HH_14_Hunter : 3 : Salamander-{Ignorecycle}-0.3, Polliwog-{Ignorecycle}-0
+(Red)LINEAGE : HH_15_Hunter : 3 : Eel-{Ignorecycle}-0.45, AquaCenti-{Ignorecycle}-0
+(Red)HH_16_Hunter : 3-Small Centipede-{AlternateForm}
+(Red)LINEAGE : HH_19_Hunter : 2 : Scutigera-0.3, Centipede-{1.0}-0.4, RedCentipede-{Voidsea}-0
+(Red)HH_21_Hunter : 5-TentaclePlant-{Ignorecycle}, 6-TentaclePlant-{Ignorecycle}, 7-TentaclePlant-{Ignorecycle}
+(Red)HH_22_Hunter : 3-FireBug
+(Red)LINEAGE : HH_23_Hunter : 3 : Scutigera-0.3, Centipede-{1.0}-0.4, RedCentipede-0
+(Red)LINEAGE : HH_25 : 4 : WaterSpitter-0.35, SpitLizard-{Mean:0.9}-0.45, Red-1, Red-{Mean:1.0}-0
+(Red)HH_26_Hunter : 4-Salamander-{PreCycle}
+(Red)LINEAGE : HH_26_Hunter : 3 : WaterSpitter-0.35, SpitLizard-{Mean:0.9}-0.45, Red-1, Red-{Mean:1.0}-0
+
+//Gourmand
+(Gourmand)OFFSCREEN : 0-Deer-3, 0-Leviathan-{Ignorecycle}
+(Gourmand)LINEAGE : HH_01_Gourmand : 2 : DaddyLongLegs-{Ignorecycle}-1, TerrorLongLegs-{Ignorecycle}-0
+(Gourmand)LINEAGE : HH_02_Gourmand : 3 : Blue-0.45, White-0.4, Cyan-0.5, Seeker-{Mean:1.0}-0
+(Gourmand)HH_02_Gourmand : 4-TentaclePlant-{Ignorecycle}
+(Gourmand)LINEAGE : HH_03_Gourmand : 3 : Eggbug-0.35, FireBug-0
+(Gourmand)HH_05_Gourmand : 5-BigNeedleWorm, 6-JetFish-{Ignorecycle}, 8-JetFish-{Ignorecycle}, 9-Eel-{PreCycle}
+(Gourmand)LINEAGE : HH_05_Gourmand : 7 : Salamander-{Ignorecycle}-0.3, Eel-{Ignorecycle}-0
+(Gourmand)LINEAGE : HH_06_Gourmand : 3 : Scutigera-0.3, Centipede-{1.0}-0.4, RedCentipede-0
+(Gourmand)HH_07_Gourmand : 3-TentaclePlant-{Ignorecycle}, 4-TentaclePlant-{Ignorecycle}
+(Gourmand)LINEAGE : HH_08_Gourmand : 3 : White-0.3, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Gourmand)HH_09_Gourmand : 7-JetFish-{Ignorecycle}, 8-JetFish-{Ignorecycle}, 9-Eel-{PreCycle}
+(Gourmand)LINEAGE : HH_09_Gourmand : 6 : Salamander-{Ignorecycle}-0.3, Eel-{Ignorecycle}-0
+(Gourmand)HH_10_Gourmand : 3-JetFish-{PreCycle}
+(Gourmand)HH_11_Gourmand : 2-TentaclePlant-{Ignorecycle}
+(Gourmand)HH_13_Gourmand : 2-Small Centipede-{AlternateForm}
+(Gourmand)LINEAGE : HH_14_Gourmand : 3 : Salamander-{Ignorecycle}-0.4, Polliwog-{Ignorecycle}-0
+(Gourmand)LINEAGE : HH_15_Gourmand : 3 : Eel-{Ignorecycle}-0.4, AquaCenti-{Ignorecycle}-0
+(Gourmand)HH_16_Gourmand : 3-Small Centipede-{AlternateForm}
+(Gourmand)LINEAGE : HH_19_Gourmand : 2 : Scutigera-0.3, Centipede-{1.0}-0.4, RedCentipede-{Voidsea}-0
+(Gourmand)HH_21_Gourmand : 5-TentaclePlant-{Ignorecycle}, 6-TentaclePlant-{Ignorecycle}, 7-TentaclePlant-{Ignorecycle}
+(Gourmand)HH_22_Gourmand : 3-FireBug
+(Gourmand)LINEAGE : HH_23_Gourmand : 3 : Scutigera-0.3, Centipede-{1.0}-0.4, RedCentipede-0
+(Gourmand)LINEAGE : HH_25 : 4 : WaterSpitter-0.33, SpitLizard-{Mean:0.8}-0.4, Red-1, Red-{Mean:1.0}-0
+(Gourmand)HH_26_Gourmand : 4-Salamander-{PreCycle}
+(Gourmand)LINEAGE : HH_26_Gourmand : 3 : WaterSpitter-0.33, SpitLizard-{Mean:0.8}-0.4, Red-1, Red-{Mean:1.0}-0
+
+//Survivor
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)OFFSCREEN : 0-Deer-4, 0-Leviathan-{Ignorecycle}
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)LINEAGE : HH_01 : 2 : BrotherLongLegs-{Ignorecycle}-1, DaddyLongLegs-{Ignorecycle}-1, TerrorLongLegs-{Ignorecycle}-0
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)LINEAGE : HH_02 : 3 : Blue-0.3, White-0.4, Cyan-0.5, Seeker-{Mean:1.0}-0
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_02 : 4-TentaclePlant-{Ignorecycle}
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)LINEAGE : HH_03 : 3 : Eggbug-0.3, FireBug-0
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_05 : 5-BigNeedleWorm, 6-JetFish-{Ignorecycle}, 8-JetFish-{Ignorecycle}, 9-Eel-{PreCycle}
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)LINEAGE : HH_05 : 7 : Salamander-{Ignorecycle}-0.3, Eel-{Ignorecycle}-0
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)LINEAGE : HH_06 : 3 : Scutigera-0.25, Centipede-{1.0}-0.35, RedCentipede-0
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_06 : 3-Small Centipede-{AlternateForm}
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_07 : 3-TentaclePlant-{Ignorecycle}, 4-TentaclePlant-{Ignorecycle}
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)LINEAGE : HH_08 : 3 : Blue-0.3, White-0.4, Cyan-0.5, Seeker-{Mean:1.0}-0
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_09 : 7-JetFish-{Ignorecycle}, 8-JetFish-{Ignorecycle}, 9-Eel-{PreCycle}
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)LINEAGE : HH_09 : 6 : Salamander-{Ignorecycle}-0.3, Eel-{Ignorecycle}-0
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_10 : 3-JetFish-{PreCycle}
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_11 : 2-TentaclePlant-{Ignorecycle}
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_13 : 2-Small Centipede-{AlternateForm}-2
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_14 : 3-Polliwog-{Ignorecycle}
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)LINEAGE : HH_15 : 3 : Eel-{Ignorecycle}-0.35, AquaCenti-{Ignorecycle}-0
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_16 : 3-Small Centipede-{AlternateForm}-2
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)LINEAGE : HH_19 : 2 : Scutigera-0.25, Centipede-{1.0}-0.35, RedCentipede-{Voidsea}-0
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_21 : 5-TentaclePlant-{Ignorecycle}, 6-TentaclePlant-{Ignorecycle}, 7-TentaclePlant-{Ignorecycle}
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_22 : 3-FireBug
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)LINEAGE : HH_23 : 3 : Centipede-{0.5}-0.6, Centipede-{0.6}-0.6, Centipede-{0.7}-0.6, Centipede-{0.8}-0.6, Centipede-{0.9}-0.6, Centipede-{1.0}-0.6, RedCentipede-0
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)LINEAGE : HH_25 : 4 : WaterSpitter-0.3, SpitLizard-{Mean:0.7}-0.4, Red-1, Red-{Mean:1.0}-0
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)HH_26 : 4-Salamander-{PreCycle}
+(X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)LINEAGE : HH_26 : 3 : Green-0.3, WaterSpitter-0.4, SpitLizard-{Mean:0.7}-0.45, Red-1, Red-{Mean:1.0}-0
+
+//Monk
+(Yellow)OFFSCREEN : 0-Deer-4, 0-Leviathan-{Ignorecycle}
+(Yellow)LINEAGE : HH_01_Monk : 2 : BrotherLongLegs-{Ignorecycle}-1, DaddyLongLegs-{Ignorecycle}-1, TerrorLongLegs-{Ignorecycle}-0
+(Yellow)LINEAGE : HH_02_Monk : 3 : Blue-0.25, White-0.3, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Yellow)HH_02_Monk : 4-TentaclePlant-{Ignorecycle}
+(Yellow)LINEAGE : HH_03_Monk : 3 : Eggbug-0.25, FireBug-0
+(Yellow)HH_05_Monk : 5-BigNeedleWorm, 6-JetFish-{Ignorecycle}, 8-JetFish-{Ignorecycle}, 9-Eel-{PreCycle}
+(Yellow)LINEAGE : HH_05_Monk : 7 : Salamander-{Ignorecycle}-0.25, Eel-{Ignorecycle}-0
+(Yellow)LINEAGE : HH_06_Monk : 3 : Scutigera-0.2, Centipede-{1.0}-0.3, RedCentipede-0
+(Yellow)HH_06_Monk : 3-Small Centipede-{AlternateForm}
+(Yellow)HH_07_Monk : 3-TentaclePlant-{Ignorecycle}, 4-TentaclePlant-{Ignorecycle}
+(Yellow)LINEAGE : HH_08_Monk : 3 : Blue-0.25, White-0.3, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Yellow)HH_09_Monk : 7-JetFish-{Ignorecycle}, 8-JetFish-{Ignorecycle}, 9-Eel-{PreCycle}
+(Yellow)LINEAGE : HH_09_Monk : 6 : Salamander-{Ignorecycle}-0.25, Eel-{Ignorecycle}-0
+(Yellow)HH_10_Monk : 3-JetFish-{PreCycle}
+(Yellow)HH_11_Monk : 2-TentaclePlant-{Ignorecycle}
+(Yellow)HH_13_Monk : 2-Small Centipede-{AlternateForm}-2
+(Yellow)HH_14_Monk : 3-Polliwog-{Ignorecycle}
+(Yellow)LINEAGE : HH_15_Monk : 3 : Eel-{Ignorecycle}-0.3, AquaCenti-{Ignorecycle}-0
+(Yellow)HH_16_Monk : 3-Small Centipede-{AlternateForm}-2
+(Yellow)LINEAGE : HH_19_Monk : 2 : Scutigera-0.2, Centipede-{1.0}-0.3, RedCentipede-{Voidsea}-0
+(Yellow)HH_21_Monk : 5-TentaclePlant-{Ignorecycle}, 6-TentaclePlant-{Ignorecycle}, 7-TentaclePlant-{Ignorecycle}
+(Yellow)HH_22_Monk : 3-FireBug
+(Yellow)LINEAGE : HH_23_Monk : 3 : Centipede-{0.4}-0.6, Centipede-{0.5}-0.6, Centipede-{0.6}-0.6, Centipede-{0.7}-0.6, Centipede-{0.8}-0.6, Centipede-{0.9}-0.6, Centipede-{1.0}-0.6, RedCentipede-0
+(Yellow)LINEAGE : HH_25 : 4 : Green-0.25, WaterSpitter-0.35, SpitLizard-{Mean:0.6}-0.4, Red-1, Red-{Mean:1.0}-0
+(Yellow)HH_26_Monk : 4-Salamander-{PreCycle}
+(Yellow)LINEAGE : HH_26_Monk : 3 : Green-0.25, WaterSpitter-0.35, SpitLizard-{Mean:0.6}-0.4, Red-1, Red-{Mean:1.0}-0
+
+//Rivulet
+(Rivulet)OFFSCREEN : 0-Deer-6, 0-Leviathan-{Ignorecycle}
+(Rivulet)LINEAGE : HH_01_Riv : 2 : BrotherLongLegs-{Ignorecycle}-1, DaddyLongLegs-{Ignorecycle}-0
+(Rivulet)LINEAGE : HH_02_Riv : 3 : ZoopLizard-0.3, Cyan-0.4, Seeker-{Mean:1.0}-0
+(Rivulet)HH_02_Riv : 4-TentaclePlant-{Ignorecycle}
+(Rivulet)LINEAGE : HH_03_Riv : 3 : Eggbug-0.4, FireBug-0
+(Rivulet)HH_05_Riv : 5-BigNeedleWorm, 6-JetFish-{Ignorecycle}, 8-JetFish-{Ignorecycle}, 9-Eel-{PreCycle}
+(Rivulet)LINEAGE : HH_05_Riv : 7 : Salamander-{Ignorecycle}-0.3, Eel-{Ignorecycle}-0
+(Rivulet)LINEAGE : HH_06_Riv : 3 : Centipede-{0.5}-0.75, Centipede-{0.6}-0.75, Centipede-{0.7}-0.75, Centipede-{0.8}-0.75, Centipede-{0.9}-0.75, Centipede-{1.0}-0.75, RedCentipede-0
+(Rivulet)HH_07_Riv : 3-TentaclePlant-{Ignorecycle}, 4-TentaclePlant-{Ignorecycle}, 5-TentaclePlant-{Ignorecycle}
+(Rivulet)HH_08_Riv : 4-GarbageWorm
+(Rivulet)LINEAGE : HH_08_Riv : 3 : Blue-0.3, ZoopLizard-0.4, Cyan-0.5, Seeker-{Mean:1.0}-0
+(Rivulet)HH_09_Riv : 7-JetFish-{Ignorecycle}, 8-JetFish-{Ignorecycle}, 6-Polliwog-{Ignorecycle}, 9-Polliwog-{PreCycle}
+(Rivulet)HH_10_Riv : 3-JetFish
+(Rivulet)HH_11_Riv : 2-TentaclePlant-{Ignorecycle}
+(Rivulet)HH_13_Riv : 3-Small Centipede
+(Rivulet)LINEAGE : HH_13_Riv : 2 : BigSpider-0.35, MotherSpider-0.4, SpitterSpider-0
+(Rivulet)HH_13_Riv : 3-Small Centipede
+(Rivulet)HH_14_Riv : 3-Eel-{Ignorecycle}
+(Rivulet)LINEAGE : HH_15_Riv : 3 : Eel-{Ignorecycle}-0.4, AquaCenti-{Ignorecycle}-0
+(Rivulet)HH_16_Riv : 3-Small Centipede-{AlternateForm}
+(Rivulet)LINEAGE : HH_19_Riv : 2 : Scutigera-0.3, Centipede-{1.0}-0.4, RedCentipede-{Voidsea}-0
+(Rivulet)HH_19_Riv : 3-FireBug
+(Rivulet)HH_21_Riv : 4-TentaclePlant-{Ignorecycle}, 5-TentaclePlant-{Ignorecycle}, 6-TentaclePlant-{Ignorecycle}
+(Rivulet)HH_22_Riv : 3-FireBug
+(Rivulet)LINEAGE : HH_23_Riv : 3 : Centipede-{0.5}-0.75, Centipede-{0.6}-0.75, Centipede-{0.7}-0.75, Centipede-{0.8}-0.75, Centipede-{0.9}-0.75, Centipede-{1.0}-0.75, RedCentipede-0
+(Rivulet)LINEAGE : HH_25 : 4 : WaterSpitter-0.35, SpitLizard-{Mean:0.8}-0.45, Red-1, Red-{Mean:1.0}-0
+(Rivulet)HH_26_Riv : 4-Salamander-{PreCycle}
+(Rivulet)LINEAGE : HH_26_Riv : 3 : WaterSpitter-0.35, SpitLizard-{Mean:0.8}-0.45, Red-1, Red-{Mean:1.0}-0
+
+//Saint
+(Saint)OFFSCREEN : 0-Deer-{Ignorecycle}-8, 0-Leviathan-{Voidsea}
+(Saint)LINEAGE : HH_01_Saint : 2 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
+(Saint)HH_02_Saint : 2-TentaclePlant-{Ignorecycle}, 3-TentaclePlant-{Ignorecycle}
+(Saint)LINEAGE : HH_03_Saint : 3 : Eggbug-{Ignorecycle}-1, FireBug-{Ignorecycle}-0
+(Saint)HH_05_Saint : 5-BigNeedleWorm, 6-JetFish-{Ignorecycle}, 8-JetFish-{Ignorecycle} 7-Polliwog-{Ignorecycle}, 9-Polliwog-{Ignorecycle}
+(Saint)LINEAGE : HH_06_Saint : 3 : Centipede-{0.6}-1, Centipede-{0.8}-1, Centipede-{1.0}-1, RedCentipede-0
+(Saint)HH_07_Saint : 3-TentaclePlant-{Ignorecycle}, 4-TentaclePlant-{Ignorecycle}, 5-TentaclePlant-{Ignorecycle}
+(Saint)HH_08_Saint : 4-GarbageWorm-2
+(Saint)LINEAGE : HH_08_Saint : 3 : Blue-1, ZoopLizard-1, Cyan-1, Seeker-{Mean:1.0}-0
+(Saint)HH_09_Saint : 7-JetFish-{Ignorecycle}, 8-JetFish-{Ignorecycle}, 6-Polliwog-{Ignorecycle}, 9-Polliwog-{Ignorecycle}
+(Saint)LINEAGE : HH_10_Saint : 3 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
+(Saint)HH_13_Saint : 3-Small Centipede
+(Saint)LINEAGE : HH_13_Saint : 2 : BigSpider-{Ignorecycle}-1, MotherSpider-{Ignorecycle}-1, SpitterSpider-{Ignorecycle}-0
+(Saint)HH_14_Saint : 3-Eel-{Ignorecycle}
+(Saint)LINEAGE : HH_15_Saint : 3 : Eel-{Ignorecycle}-1, AquaCenti-{Ignorecycle}-0
+(Saint)HH_16_Saint : 3-Small Centipede
+(Saint)LINEAGE : HH_19_Saint : 2 : Centipede-{0.6}-1, Centipede-{0.8}-1, Centipede-{1.0}-1, RedCentipede-{Voidsea}-0
+(Saint)HH_19_Saint : 3-FireBug-{Ignorecycle}
+(Saint)HH_21_Saint : 4-TentaclePlant-{Ignorecycle}, 5-TentaclePlant-{Ignorecycle}
+(Saint)HH_22_Saint : 3-FireBug-{Ignorecycle}-2
+(Saint)LINEAGE : HH_23_Saint : 3 : Centipede-{0.6}-1, Centipede-{0.8}-1, Centipede-{1.0}-1, RedCentipede-0
+(Saint)LINEAGE : HH_25 : 4 : WaterSpitter-{Mean:0.5}-1, SpitLizard-{Mean:0.5}-1, Red-1, Red-{Mean:1.0}-0
+(Saint)LINEAGE : HH_26_Saint : 3 : WaterSpitter-{Mean:0.5}-1, SpitLizard-{Mean:0.5}-1, Red-1, Red-{Mean:1.0}-0
+
+//Inv
+(Inv)OFFSCREEN : 0-Overseer-200, 0-Scavenger-10, 0-ScavengerElite-30, 0-Deer-8, 0-Leviathan-{Ignorecycle}-2
+(Inv)HH_01_Spear : 2-TerrorLongLegs-{Ignorecycle}
+(Inv)LINEAGE : HH_02_Riv : 3 : Blue-{Mean:1.0}-1, White-{Mean:1.0}-1, Cyan-{Mean:1.0}-1, Seeker-{Mean:1.0}-0
+(Inv)HH_02_Riv : 4-TentaclePlant-{Ignorecycle}
+(Inv)HH_03_Gourmand : 3-FireBug
+(Inv)HH_05 : 5-BigNeedleWorm, 6-JetFish-{Ignorecycle}, 8-JetFish-{Ignorecycle}, 9-Eel-{PreCycle}
+(Inv)LINEAGE : HH_05 : 7 : Salamander-{Ignorecycle}-0.3, Eel-{Ignorecycle}-0
+(Inv)LINEAGE : HH_06_Spear : 3 : Scutigera-1, Centipede-{1.0}-1, RedCentipede-0
+(Inv)HH_07_Riv : 3-TentaclePlant-{Ignorecycle}, 4-TentaclePlant-{Ignorecycle}, 5-TentaclePlant-{Ignorecycle}
+(Inv)LINEAGE : HH_08_Saint : 3 : Blue-{Mean:1.0}-1, ZoopLizard-{Mean:1.0}-1, Cyan-{Mean:1.0}-1, Seeker-{Mean:1.0}-0
+(Inv)HH_09_Hunter : 7-JetFish-{Ignorecycle}, 8-JetFish-{Ignorecycle}, 9-Eel-{PreCycle}
+(Inv)LINEAGE : HH_09_Hunter : 6 : Salamander-{Ignorecycle}-1, Eel-{Ignorecycle}-0
+(Inv)HH_10_Saint : 3-JetFish-{PreCycle}
+(Inv)HH_11_Monk : 2-TentaclePlant-{Ignorecycle}
+(Inv)HH_13_Saint : 3-Small Centipede-2
+(Inv)LINEAGE : HH_13_Saint : 2 : BigSpider-1, MotherSpider-1, SpitterSpider-0
+(Inv)HH_14_Arti : 3-Polliwog-{Ignorecycle}
+(Inv)LINEAGE : HH_15_Monk : 3 : Eel-{Ignorecycle}-1, AquaCenti-{Ignorecycle}-0
+(Inv)HH_16_Riv : 3-Small Centipede, 3-Small Centipede-{AlternateForm}
+(Inv)LINEAGE : HH_19 : 2 : Scutigera-1, Centipede-{1.0}-1, RedCentipede-{Voidsea}-0
+(Inv)HH_19 : 3-FireBug
+(Inv)HH_22_Hunter : 3-FireBug-2
+(Inv)LINEAGE : HH_23_Riv : 3 : Centipede-{0.5}-0.75, Centipede-{0.6}-0.75, Centipede-{0.7}-0.75, Centipede-{0.8}-0.75, Centipede-{0.9}-0.75, Centipede-{1.0}-0.75, RedCentipede-0
+(Inv)LINEAGE : HH_25 : 4 : Green-{Mean:1.0}-1, WaterSpitter-{Mean:1.0}-1, SpitLizard-{Mean:1.0}-1, Red-{Mean:1.0}-1, TrainLizard-{Mean:1.0}-0
+(Inv)HH_26_Arti : 4-Salamander-{PreCycle}
+(Inv)LINEAGE : HH_26_Arti : 3 : Green-{Mean:1.0}-1, WaterSpitter-{Mean:1.0}-1, SpitLizard-{Mean:1.0}-1, Red-{Mean:1.0}-1, TrainLizard-{Mean:1.0}-0
+END CREATURES
+
+BAT MIGRATION BLOCKAGES
+HH_04
+HH_04_Riv
+HH_04_Saint
+HH_10
+HH_10_Spear
+HH_10_Arti
+HH_10_Hunter
+HH_10_Gourmand
+HH_10_Monk
+HH_10_Riv
+HH_10_Saint
+HH_13
+HH_13_Spear
+HH_13_Arti
+HH_13_Hunter
+HH_13_Gourmand
+HH_13_Monk
+HH_13_Riv
+HH_13_Saint
+HH_14
+HH_14_Spear
+HH_14_Arti
+HH_14_Hunter
+HH_14_Gourmand
+HH_14_Monk
+HH_14_Riv
+HH_14_Saint
+HH_15
+HH_15_Spear
+HH_15_Arti
+HH_15_Hunter
+HH_15_Gourmand
+HH_15_Monk
+HH_15_Riv
+HH_15_Saint
+HH_20
+HH_20_Spear
+HH_20_Arti
+HH_20_Hunter
+HH_20_Gourmand
+HH_20_Monk
+HH_20_Riv
+HH_20_Saint
+HH_21
+HH_21_Spear
+HH_21_Arti
+HH_21_Hunter
+HH_21_Gourmand
+HH_21_Monk
+HH_21_Riv
+HH_21_Saint
+HH_24
+HH_24_Spear
+HH_24_Arti
+HH_24_Hunter
+HH_24_Gourmand
+HH_24_Monk
+HH_24_Riv
+HH_24_Saint
+HH_28
+HH_28_Riv
+HH_29
+HH_29_Spear
+HH_29_Arti
+HH_29_Hunter
+HH_29_Gourmand
+HH_29_Monk
+HH_29_Riv
+HH_29_Saint
+END BAT MIGRATION BLOCKAGES

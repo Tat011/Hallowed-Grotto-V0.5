@@ -1,0 +1,4 @@
+Template: HH_SettingsTemplate_Inside
+Effects: WaterGlowworm-0.4-20-20, TinyDragonFly-0.9-267-123, RedSwarmer-0.8-267-9
+PlacedObjects: SeedCob><393.2413><464.1998><0~0~7~14, SeedCob><441.8312><461.1828><0~0~7~14, BubbleGrass><761.3462><310.3778><43~89~5~10, 
+FadePalette: 9, 0.1

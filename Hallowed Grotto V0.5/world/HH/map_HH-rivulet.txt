@@ -1,0 +1,85 @@
+HH_25: -679.5><-507><-498><-390><0><Hallowed Grotto (Depths)
+HH_27: -525><-625.5><-398><-428><0><Hallowed Grotto (Depths)
+HH_30: -897><19.5><-700><-30><0><
+HH_31: -531><-742.5><0><-82><0><Hallowed Grotto (Depths)
+HH_S02: -801><-88.5><-584><-102><0><
+GATE_SB_HH_2: -774><-679.5><-568><-466><0><
+OffScreenDen_HH: -363><336><-306><214><0><
+HH_01_Riv: 555><291><0><-70><0><NONE
+HH_02_Riv: 408><228><0><-74><0><Hallowed Grotto
+GATE_DS_HH_Riv: -162><552><0><-70><0><
+GATE_HH_GW_Riv: 678><420><0><-100><0><
+GATE_HH_SL_Riv: 732><-222><0><-70><2><NONE
+GATE_SB_HH_Riv: -1122><42><0><-70><0><
+HH_06_Riv: 231><171><0><-104><0><Hallowed Grotto
+HH_09_Riv: 48><-114><0><-184><0><Hallowed Grotto
+HH_05_Riv: 144><-258><0><-224><1><Hallowed Grotto
+HH_13_Riv: 639><159><0><-70><0><Hallowed Grotto
+HH_18_Riv: -51><-465><0><-70><0><Hallowed Grotto (Depths)
+HH_24_Riv: -534><-369><0><-70><1><Anchialine System
+HH_04_Riv: 447><-120><0><-70><1><Hallowed Grotto
+HH_03_Riv: 483><102><0><-80><0><Hallowed Grotto
+HH_26_Riv: -564><-30><0><-70><0><Hallowed Grotto
+HH_S01_Riv: -147><309><0><-70><0><
+HH_14_Riv: -438><-216><0><-164><1><Anchialine System
+HH_21_Riv: -210><-312><0><-104><0><Anchialine System
+HH_29_Riv: 513><-252><0><-84><2><Anchialine System
+HH_28_Riv: -537><-858><0><-70><0><
+HH_17_Riv: 294><-465><0><-70><0><Hallowed Grotto (Depths)
+HH_16_Riv: -300><-60><0><-76><0><Hallowed Grotto
+HH_15_Riv: 117><-321><0><-74><2><Anchialine System
+HH_12_Riv: -111><435><0><-82><0><
+HH_11_Riv: -6><102><0><-102><0><Hallowed Grotto
+HH_10_Riv: -225><-171><0><-80><1><Anchialine System
+HH_08_Riv: 0><327><0><-76><0><Hallowed Grotto
+HH_07_Riv: 54><225><0><-70><0><Hallowed Grotto
+HH_22_Riv: -405><-465><0><-80><0><Hallowed Grotto (Depths)
+HH_19_Riv: -216><-459><0><-70><0><Hallowed Grotto (Depths)
+HH_20_Riv: 324><-360><0><-70><0><Anchialine System
+HH_23_Riv: -396><-171><0><-70><0><Hallowed Grotto
+Connection: HH_25,HH_24_Riv,43,72,1,5,0,2
+Connection: HH_25,HH_22_Riv,47,48,1,15,0,2
+Connection: HH_25,HH_27,46,11,1,30,0,2
+Connection: HH_25,GATE_SB_HH_2,15,3,47,22,3,0
+Connection: HH_27,HH_31,18,9,29,38,0,0
+Connection: HH_30,GATE_SB_HH_Riv,4,17,45,9,2,0
+Connection: HH_30,HH_26_Riv,95,16,1,32,0,2
+Connection: HH_30,HH_S02,83,14,25,29,3,1
+Connection: HH_31,HH_28_Riv,29,3,20,32,0,0
+Connection: HH_01_Riv,GATE_HH_GW_Riv,37,29,2,9,0,2
+Connection: HH_01_Riv,HH_02_Riv,12,5,46,27,2,0
+Connection: HH_02_Riv,HH_06_Riv,1,18,51,44,2,0
+Connection: HH_02_Riv,HH_13_Riv,42,10,3,32,0,2
+Connection: GATE_DS_HH_Riv,HH_12_Riv,36,5,31,31,3,2
+Connection: GATE_HH_SL_Riv,HH_29_Riv,4,12,87,25,2,0
+Connection: HH_06_Riv,HH_07_Riv,16,44,47,18,2,0
+Connection: HH_09_Riv,HH_11_Riv,72,90,26,1,1,3
+Connection: HH_09_Riv,HH_16_Riv,1,68,51,23,2,0
+Connection: HH_09_Riv,HH_03_Riv,173,68,5,24,0,2
+Connection: HH_09_Riv,HH_10_Riv,37,49,85,38,3,1
+Connection: HH_09_Riv,HH_18_Riv,66,5,36,12,3,1
+Connection: HH_09_Riv,HH_15_Riv,93,4,63,35,3,1
+Connection: HH_05_Riv,HH_04_Riv,149,96,3,12,0,2
+Connection: HH_05_Riv,HH_10_Riv,4,89,89,24,2,0
+Connection: HH_05_Riv,HH_21_Riv,57,29,38,41,2,0
+Connection: HH_05_Riv,HH_20_Riv,108,22,1,24,0,2
+Connection: HH_13_Riv,HH_03_Riv,2,4,43,25,2,0
+Connection: HH_18_Riv,HH_17_Riv,46,13,1,13,0,2
+Connection: HH_18_Riv,HH_19_Riv,3,12,55,10,2,0
+Connection: HH_24_Riv,HH_23_Riv,9,31,25,1,1,3
+Connection: HH_24_Riv,HH_14_Riv,36,33,5,11,1,3
+Connection: HH_24_Riv,HH_21_Riv,46,20,8,26,0,2
+Connection: HH_04_Riv,HH_03_Riv,44,32,34,7,1,3
+Connection: HH_26_Riv,HH_16_Riv,118,10,2,22,0,2
+Connection: HH_26_Riv,HH_23_Riv,89,2,2,33,3,1
+Connection: HH_S01_Riv,HH_08_Riv,39,16,13,11,0,2
+Connection: HH_14_Riv,HH_10_Riv,47,61,1,25,0,2
+Connection: HH_21_Riv,HH_15_Riv,37,7,1,20,0,2
+Connection: HH_21_Riv,HH_22_Riv,21,1,58,24,3,1
+Connection: HH_29_Riv,HH_15_Riv,16,12,156,33,2,0
+Connection: HH_17_Riv,HH_20_Riv,40,33,30,1,1,3
+Connection: HH_16_Riv,HH_23_Riv,18,1,44,32,3,0
+Connection: HH_12_Riv,HH_08_Riv,37,3,1,32,0,2
+Connection: HH_11_Riv,HH_07_Riv,26,48,6,4,1,3
+Connection: HH_08_Riv,HH_07_Riv,24,1,6,29,3,1
+Connection: HH_22_Riv,HH_19_Riv,64,15,4,11,0,2

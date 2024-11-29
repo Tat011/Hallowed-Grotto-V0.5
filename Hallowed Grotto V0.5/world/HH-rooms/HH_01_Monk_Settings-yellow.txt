@@ -1,0 +1,4 @@
+Template: HH_SettingsTemplate_Inside
+Effects: RockFlea-0.30-20-20, GrassHopper-0.7-20-25, Beetle-0.36-20-30, TinyDragonFly-0.28-40-40, RedSwarmer-0.05-2-9,  
+PlacedObjects: Corruption><218.6037><583.1136><-2~-101, 
+FadePalette: 9, 0.55

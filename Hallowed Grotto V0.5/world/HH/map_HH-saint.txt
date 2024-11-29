@@ -1,0 +1,80 @@
+HH_25: -679.5><-507><-498><-390><0><Hallowed Grotto (Depths)
+HH_30: -897><19.5><-700><-30><0><
+HH_S02: -801><-88.5><-584><-102><0><
+GATE_SB_HH_2: -774><-679.5><-568><-466><0><
+OffScreenDen_HH: -363><336><-306><214><0><
+HH_27_Saint: -525><-633><0><-78><0><Hallowed Grotto (Depths)
+HH_22_Saint: -405><-465><0><-80><0><Hallowed Grotto (Depths)
+HH_21_Saint: -210><-312><0><-104><0><Anchialine System
+HH_19_Saint: -216><-459><0><-70><0><Hallowed Grotto (Depths)
+HH_18_Saint: -51><-465><0><-70><0><Hallowed Grotto (Depths)
+HH_17_Saint: 297><-465><0><-70><0><Hallowed Grotto (Depths)
+HH_24_Saint: -534><-369><0><-70><1><Anchialine System
+GATE_SB_HH_Saint: -1122><42><0><-70><0><
+GATE_DS_HH_Saint: -162><552><0><-70><0><
+GATE_HH_GW_Saint: 675><420><0><-100><0><
+HH_26_Saint: -564><-30><0><-70><0><Hallowed Grotto
+HH_13_Saint: 636><159><0><-70><0><Hallowed Grotto
+HH_04_Saint: 447><-120><0><-70><1><
+HH_12_Saint: -111><435><0><-82><0><
+HH_01_Saint: 555><291><0><-70><0><Hallowed Grotto
+HH_S01_Saint: -147><309><0><-70><0><
+HH_08_Saint: 0><327><0><-76><0><Hallowed Grotto
+HH_02_Saint: 408><228><0><-74><0><Hallowed Grotto
+HH_06_Saint: 231><171><0><-104><0><Hallowed Grotto
+HH_07_Saint: 54><225><0><-70><0><Hallowed Grotto
+HH_03_Saint: 483><102><0><-80><0><Hallowed Grotto
+HH_16_Saint: -300><-60><0><-76><0><Hallowed Grotto
+HH_11_Saint: -6><102><0><-102><0><
+HH_29_Saint: 504><-258><0><-84><2><Anchialine System
+GATE_HH_SL_Saint: 723><-228><0><-70><2><
+HH_15_Saint: 114><-327><0><-74><2><Anchialine System
+HH_23_Saint: -393><-171><0><-70><0><Hallowed Grotto
+HH_09_Saint: 48><-114><0><-184><0><Hallowed Grotto
+HH_14_Saint: -438><-216><0><-164><1><NONE
+HH_10_Saint: -225><-171><0><-80><1><NONE
+HH_20_Saint: 327><-360><0><-70><0><Anchialine System
+HH_05_Saint: 153><-258><0><-224><1><Hallowed Grotto
+Connection: HH_25,HH_24_Saint,43,72,1,5,0,2
+Connection: HH_25,HH_22_Saint,47,48,1,15,0,2
+Connection: HH_25,HH_27_Saint,46,11,1,34,0,2
+Connection: HH_25,GATE_SB_HH_2,15,3,47,22,3,0
+Connection: HH_30,GATE_SB_HH_Saint,4,17,45,9,2,0
+Connection: HH_30,HH_26_Saint,95,16,1,32,0,2
+Connection: HH_30,HH_S02,83,14,25,29,3,1
+Connection: HH_22_Saint,HH_21_Saint,58,24,21,1,1,3
+Connection: HH_22_Saint,HH_19_Saint,64,15,4,11,0,2
+Connection: HH_21_Saint,HH_05_Saint,38,41,57,29,0,2
+Connection: HH_21_Saint,HH_24_Saint,8,26,46,20,2,0
+Connection: HH_21_Saint,HH_15_Saint,37,7,1,20,0,2
+Connection: HH_19_Saint,HH_18_Saint,55,10,3,12,0,2
+Connection: HH_18_Saint,HH_09_Saint,36,12,66,5,1,3
+Connection: HH_18_Saint,HH_17_Saint,46,13,1,13,0,2
+Connection: HH_17_Saint,HH_20_Saint,40,33,30,1,1,3
+Connection: HH_24_Saint,HH_23_Saint,9,31,25,1,1,3
+Connection: HH_24_Saint,HH_14_Saint,36,33,5,11,1,3
+Connection: GATE_DS_HH_Saint,HH_12_Saint,36,5,31,31,3,2
+Connection: GATE_HH_GW_Saint,HH_01_Saint,2,9,37,29,2,0
+Connection: HH_26_Saint,HH_16_Saint,118,10,2,22,0,2
+Connection: HH_26_Saint,HH_23_Saint,89,2,2,33,3,1
+Connection: HH_13_Saint,HH_02_Saint,3,32,42,10,2,0
+Connection: HH_13_Saint,HH_03_Saint,2,4,43,25,2,0
+Connection: HH_04_Saint,HH_03_Saint,44,32,34,7,1,3
+Connection: HH_04_Saint,HH_05_Saint,3,12,149,96,2,0
+Connection: HH_12_Saint,HH_08_Saint,37,3,1,32,0,2
+Connection: HH_01_Saint,HH_02_Saint,12,5,46,27,2,0
+Connection: HH_S01_Saint,HH_08_Saint,39,16,13,11,0,2
+Connection: HH_08_Saint,HH_07_Saint,24,1,6,29,3,1
+Connection: HH_06_Saint,HH_07_Saint,16,44,47,18,2,0
+Connection: HH_06_Saint,HH_05_Saint,31,4,97,109,3,1
+Connection: HH_07_Saint,HH_11_Saint,6,4,26,48,3,1
+Connection: HH_03_Saint,HH_09_Saint,5,24,173,68,2,0
+Connection: HH_16_Saint,HH_09_Saint,51,23,1,68,0,2
+Connection: HH_16_Saint,HH_23_Saint,18,1,44,32,3,0
+Connection: HH_11_Saint,HH_09_Saint,26,1,72,90,3,1
+Connection: HH_29_Saint,GATE_HH_SL_Saint,87,25,4,12,0,2
+Connection: HH_29_Saint,HH_15_Saint,16,12,156,33,2,0
+Connection: HH_15_Saint,HH_09_Saint,63,35,93,4,1,3
+Connection: HH_14_Saint,HH_10_Saint,47,61,1,25,0,2
+Connection: HH_10_Saint,HH_05_Saint,89,24,4,89,0,2
+Connection: HH_20_Saint,HH_05_Saint,1,24,108,22,2,0

@@ -1,0 +1,15 @@
+Template: NONE
+DangerType: Flood
+RainIntensity: 0
+RumbleIntensity: 0.05
+CeilingDrips: 0
+Clouds: 1.0
+Grime: 0
+RandomItemDensity: 0
+RandomItemSpearChance: 0
+Palette: 14
+EffectColorA: 9
+EffectColorB: 7
+FadePalette: 36, 0.3
+Effects: VoidMelt-0.17-253.4286-70.22857, Darkness-0.3-264-179, VoidSpawn-0.9-20-20, 
+WetTerrain: OFF

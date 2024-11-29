@@ -1,0 +1,5 @@
+Template: HH_SettingsTemplate_Saint
+EffectColorA: 13
+EffectColorB: 7
+Effects: VoidMelt-0.3-253.4286-70.22857, TinyDragonFly-0.01-267-123, RedSwarmer-0.01-267-9, Darkness-0-264-179, VoidSpawn-1-20-20, DangleFruit><833.4445><351.1921><126~-19~5~10, DangleFruit><801.5738><363.3446><160~-237~5~10, 
+FadePalette: 8, 0.5

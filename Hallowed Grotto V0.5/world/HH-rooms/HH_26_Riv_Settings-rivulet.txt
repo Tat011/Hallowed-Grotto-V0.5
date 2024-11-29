@@ -1,0 +1,3 @@
+Template: HH_SettingsTemplate_Riv
+PlacedObjects: ExitSymbolHidden><1797.893><58.11011><, DandelionPeach><1340.868><283.3499><-14~243~6~12, DandelionPeach><1260.931><289.6734><261~144~6~12, DandelionPeach><1307.877><293.4043><-24~22~6~12, DandelionPeach><1400.985><96.63503><0~0~6~12, DandelionPeach><1121.082><115.8378><-252~39~6~12, 
+FadePalette: 2, 0.1, 0.1

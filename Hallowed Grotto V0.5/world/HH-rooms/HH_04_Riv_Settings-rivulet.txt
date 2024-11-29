@@ -1,0 +1,3 @@
+Template: HH_SettingsTemplate_Riv
+Effects: WaterGlowworm-1-20-20
+FadePalette: 9, 0.1

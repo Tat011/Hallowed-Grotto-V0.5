@@ -1,0 +1,9 @@
+[MERGE]
+All : HH=10
+Lizards : HH=15
+JetFish : HH=50
+Cicadas : HH=50
+Scavengers : HH=-800
+Deer : HH=80
+GarbageWorms : HH=80
+[ENDMERGE]

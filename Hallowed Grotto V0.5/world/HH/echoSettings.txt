@@ -1,0 +1,25 @@
+difficulties : Spear, Artificer, Gourmand, Red, White, Yellow, Rivulet, Saint, Inv
+priming : False
+(Saint)priming : False
+(Inv)priming : False
+size : 0.85
+(Saint)size : 0.85
+(Inv)size : 0.1
+minkarma : 1
+(Saint)minkarma : 1
+(Inv)minkarma : 1
+minkarmacap : 1
+(Saint)minkarmacap : 1
+(Inv)minkarmacap : 1
+radius : 2.8
+(Saint)radius : 2.8
+(Inv)radius : 2.8
+echosong : UNUSED
+(Saint)echosong : UNUSED
+(Inv)echosong : UNUSED
+room : HH_25
+(Saint)room : HH_25
+(Inv)room : HH_25
+defaultflip : -1
+(Saint)defaultflip : -1
+(Inv)defaultflip : -1

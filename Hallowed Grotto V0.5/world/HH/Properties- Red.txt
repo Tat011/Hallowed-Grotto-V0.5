@@ -1,0 +1,287 @@
+Palette: 125
+albinos: true
+blackSalamanderChance: 0
+kelpColor: 0,0.43,0
+corruptionEffectColor: 0,0.7,0
+corruptionEyeColor: 0,0.7,0
+batDepleteCyclesMin: 5
+batDepleteCyclesMax: 10
+batDepleteCyclesMaxIfLessThanTwoLeft: 5
+batDepleteCyclesMaxIfLessThanFiveLeft: 8
+overseersSpawnChance: 0.55
+overseersMin: 3
+overseersMax: 8
+playerGuideOverseerSpawnChance: 0
+pupSpawnChance: 0
+earlyCycleChance: 0.31
+earlyCycleFloodChance: 1
+Subregion: Hallowed Grotto
+Subregion: Hallowed Grotto (Depths)
+Subregion: Anchialine System
+Room Setting Templates: Inside
+
+Room_Attr: GATE_DS_HH_Hunter: LizardTemplate-Forbidden,
+Room_Attr: GATE_DS_HH_Spear: Overseer-Forbidden,
+Room_Attr: GATE_DS_HH_Arti: Overseer-Forbidden,
+Room_Attr: GATE_DS_HH: Overseer-Forbidden,
+Room_Attr: GATE_DS_HH_Gourmand: Overseer-Forbidden,
+Room_Attr: GATE_DS_HH_Monk: Overseer-Forbidden,
+Room_Attr: GATE_DS_HH_Riv: Overseer-Forbidden,
+Room_Attr: GATE_DS_HH_Saint: Overseer-Forbidden,
+
+Room_Attr: GATE_HH_GW_Hunter: LizardTemplate-Forbidden,TerrorLongLegs-Forbidden,DaddyLongLegs-Forbidden,BrotherLongLegs-Forbidden,
+Room_Attr: GATE_HH_GW_Spear: Overseer-Forbidden,
+Room_Attr: GATE_HH_GW_Arti: Overseer-Forbidden,
+Room_Attr: GATE_HH_GW: Overseer-Forbidden,
+Room_Attr: GATE_HH_GW_Gourmand: Overseer-Forbidden,
+Room_Attr: GATE_HH_GW_Monk: Overseer-Forbidden,
+Room_Attr: GATE_HH_GW_Riv: Overseer-Forbidden,
+Room_Attr: GATE_HH_GW_Saint: Overseer-Forbidden,
+
+Room_Attr: GATE_SB_HH_Hunter: LizardTemplate-Forbidden,
+Room_Attr: GATE_SB_HH_Spear: Overseer-Forbidden,
+Room_Attr: GATE_SB_HH_Arti: Overseer-Forbidden,
+Room_Attr: GATE_SB_HH: Overseer-Forbidden,
+Room_Attr: GATE_SB_HH_Gourmand: Overseer-Forbidden,
+Room_Attr: GATE_SB_HH_Monk: Overseer-Forbidden,
+Room_Attr: GATE_SB_HH_Riv: Overseer-Forbidden,
+Room_Attr: GATE_SB_HH_Saint: Overseer-Forbidden,
+
+Room_Attr: GATE_HH_SL_Riv: Overseer-Forbidden,
+Room_Attr: GATE_HH_SL_Saint: Overseer-Forbidden,
+
+Room_Attr: HH_01_Hunter: TerrorLongLegs-Stay,DaddyLongLegs-Stay,BrotherLongLegs-Stay,
+Room_Attr: HH_01_Spear: Overseer-Forbidden,
+Room_Attr: HH_01_Arti: Overseer-Forbidden,
+Room_Attr: HH_01: Overseer-Forbidden,
+Room_Attr: HH_01_Gourmand: Overseer-Forbidden,
+Room_Attr: HH_01_Monk: Overseer-Forbidden,
+Room_Attr: HH_01_Riv: Overseer-Forbidden,
+Room_Attr: HH_01_Saint: Overseer-Forbidden,
+
+Room_Attr: HH_02_Hunter: TerrorLongLegs-Avoid,DaddyLongLegs-Avoid,BrotherLongLegs-Avoid,
+Room_Attr: HH_02_Spear: Overseer-Forbidden,
+Room_Attr: HH_02_Arti: Overseer-Forbidden,
+Room_Attr: HH_02: Overseer-Forbidden,
+Room_Attr: HH_02_Gourmand: Overseer-Forbidden,
+Room_Attr: HH_02_Monk: Overseer-Forbidden,
+Room_Attr: HH_02_Riv: Overseer-Forbidden,
+Room_Attr: HH_02_Saint: Overseer-Forbidden,
+
+Room_Attr: HH_03_Hunter: EggBug-Like,FireBug-Like,
+Room_Attr: HH_03_Spear: Overseer-Forbidden,
+Room_Attr: HH_03_Arti: Overseer-Forbidden,
+Room_Attr: HH_03: Overseer-Forbidden,
+Room_Attr: HH_03_Gourmand: Overseer-Forbidden,
+Room_Attr: HH_03_Monk: Overseer-Forbidden,
+Room_Attr: HH_03_Riv: Overseer-Forbidden,
+Room_Attr: HH_03_Saint: Overseer-Forbidden,
+
+Room_Attr: HH_04: LizardTemplate-Avoid,Centipede-Forbidden,Scutigera-Forbidden,
+Room_Attr: HH_04_Riv: Overseer-Forbidden,
+Room_Attr: HH_04_Saint: Overseer-Forbidden,
+
+Room_Attr: HH_05_Hunter: BigEel-Stay,BigNeedleWorm-Stay,Centipede-Forbidden,Scutigera-Forbidden,
+Room_Attr: HH_05_Spear: Overseer-Forbidden,BigEel-Forbidden,
+Room_Attr: HH_05_Arti: Overseer-Forbidden,BigEel-Forbidden,
+Room_Attr: HH_05_Gourmand: Overseer-Forbidden,BigEel-Forbidden,
+Room_Attr: HH_05: Overseer-Forbidden,BigEel-Forbidden,
+Room_Attr: HH_05_Monk: Overseer-Forbidden,BigEel-Forbidden,
+Room_Attr: HH_05_Riv: Overseer-Forbidden,BigEel-Forbidden,
+Room_Attr: HH_05_Saint: Overseer-Forbidden,BigEel-Forbidden,
+
+Room_Attr: HH_06_Hunter: TerrorLongLegs-Forbidden,DaddyLongLegs-Forbidden,BrotherLongLegs-Forbidden,
+Room_Attr: HH_06_Spear: Overseer-Forbidden,
+Room_Attr: HH_06_Arti: Overseer-Forbidden,
+Room_Attr: HH_06: Overseer-Forbidden,
+Room_Attr: HH_06_Gourmand: Overseer-Forbidden,
+Room_Attr: HH_06_Monk: Overseer-Forbidden,
+Room_Attr: HH_06_Riv: Overseer-Forbidden,
+Room_Attr: HH_06_Saint: Overseer-Forbidden,
+
+Room_Attr: HH_07_Spear: Overseer-Forbidden,
+Room_Attr: HH_07_Arti: Overseer-Forbidden,
+Room_Attr: HH_07: Overseer-Forbidden,
+Room_Attr: HH_07_Gourmand: Overseer-Forbidden,
+Room_Attr: HH_07_Monk: Overseer-Forbidden,
+Room_Attr: HH_07_Riv: Overseer-Forbidden,
+Room_Attr: HH_07_Saint: Overseer-Forbidden,
+
+Room_Attr: HH_08_Spear: Overseer-Forbidden,
+Room_Attr: HH_08_Arti: Overseer-Forbidden,
+Room_Attr: HH_08: Overseer-Forbidden,
+Room_Attr: HH_08_Gourmand: Overseer-Forbidden,
+Room_Attr: HH_08_Monk: Overseer-Forbidden,
+Room_Attr: HH_08_Riv: Overseer-Forbidden,
+Room_Attr: HH_08_Saint: Overseer-Forbidden,
+
+Room_Attr: HH_09_Hunter: Overseer-Like,Deer-Stay,Centipede-Forbidden,Scutigera-Forbidden,
+Room_Attr: HH_09_Spear: Overseer-Forbidden,Deer-Forbidden,
+Room_Attr: HH_09_Arti: Overseer-Forbidden,Deer-Forbidden,
+Room_Attr: HH_09_Gourmand: Overseer-Forbidden,Deer-Forbidden,
+Room_Attr: HH_09: Overseer-Forbidden,Deer-Forbidden,
+Room_Attr: HH_09_Monk: Overseer-Forbidden,Deer-Forbidden,
+Room_Attr: HH_09_Riv: Overseer-Forbidden,Deer-Forbidden,
+Room_Attr: HH_09_Saint: Overseer-Forbidden,Deer-Forbidden,
+
+Room_Attr: HH_10_Spear: Overseer-Forbidden,
+Room_Attr: HH_10_Arti: Overseer-Forbidden,
+Room_Attr: HH_10_Hunter: LizardTemplate-Avoid,
+Room_Attr: HH_10_Gourmand: Overseer-Forbidden,
+Room_Attr: HH_10: Overseer-Forbidden,
+Room_Attr: HH_10_Monk: Overseer-Forbidden,
+Room_Attr: HH_10_Riv: Overseer-Forbidden,
+Room_Attr: HH_10_Saint: Overseer-Forbidden,
+
+Room_Attr: HH_11: Overseer-Forbidden,
+Room_Attr: HH_11_Gourmand: Overseer-Forbidden,
+Room_Attr: HH_11_Monk: Overseer-Forbidden,
+Room_Attr: HH_11_Riv: Overseer-Forbidden,
+Room_Attr: HH_11_Saint: Overseer-Forbidden,
+
+Room_Attr: HH_12_Hunter: LizardTemplate-Avoid,
+Room_Attr: HH_12_Spear: Overseer-Forbidden,
+Room_Attr: HH_12_Arti: Overseer-Forbidden,
+Room_Attr: HH_12: Overseer-Forbidden,
+Room_Attr: HH_12_Gourmand: Overseer-Forbidden,
+Room_Attr: HH_12_Monk: Overseer-Forbidden,
+Room_Attr: HH_12_Riv: Overseer-Forbidden,
+Room_Attr: HH_12_Saint: Overseer-Forbidden,
+
+Room_Attr: HH_13_Hunter: TerrorLongLegs-Forbidden,DaddyLongLegs-Forbidden,BrotherLongLegs-Forbidden,
+Room_Attr: HH_13_Spear: Overseer-Forbidden,
+Room_Attr: HH_13_Arti: Overseer-Forbidden,
+Room_Attr: HH_13: Overseer-Forbidden,
+Room_Attr: HH_13_Gourmand: Overseer-Forbidden,
+Room_Attr: HH_13_Monk: Overseer-Forbidden,
+Room_Attr: HH_13_Riv: Overseer-Forbidden,
+Room_Attr: HH_13_Saint: Overseer-Forbidden,
+
+Room_Attr: HH_14_Spear: Overseer-Forbidden,
+Room_Attr: HH_14_Arti: Overseer-Forbidden,
+Room_Attr: HH_14_Hunter: Overseer-Avoid,Polliwog-Stay,
+Room_Attr: HH_14_Gourmand: Overseer-Forbidden,
+Room_Attr: HH_14: Overseer-Forbidden,
+Room_Attr: HH_14_Monk: Overseer-Forbidden,
+Room_Attr: HH_14_Riv: Overseer-Forbidden,
+Room_Attr: HH_14_Saint: Overseer-Forbidden,
+
+Room_Attr: HH_15_Hunter: Overseer-Avoid,BigEel-Stay,EelLizard-Stay,
+Room_Attr: HH_15_Spear: Overseer-Forbidden,BigEel-Forbidden,
+Room_Attr: HH_15_Arti: Overseer-Forbidden,BigEel-Forbidden,
+Room_Attr: HH_15_Gourmand: Overseer-Forbidden,BigEel-Forbidden,
+Room_Attr: HH_15: Overseer-Forbidden,BigEel-Forbidden,
+Room_Attr: HH_15_Monk: Overseer-Forbidden,BigEel-Forbidden,
+Room_Attr: HH_15_Riv: Overseer-Forbidden,BigEel-Forbidden,
+Room_Attr: HH_15_Saint: Overseer-Forbidden,BigEel-Forbidden,
+
+Room_Attr: HH_16_Spear: Overseer-Forbidden,
+Room_Attr: HH_16_Arti: Overseer-Forbidden,
+Room_Attr: HH_16_Hunter: JetFish-Forbidden,
+Room_Attr: HH_16_Gourmand: Overseer-Forbidden,
+Room_Attr: HH_16: Overseer-Forbidden,
+Room_Attr: HH_16_Monk: Overseer-Forbidden,
+Room_Attr: HH_16_Riv: Overseer-Forbidden,
+Room_Attr: HH_16_Saint: Overseer-Forbidden,
+
+Room_Attr: HH_17_Spear: Overseer-Forbidden,
+Room_Attr: HH_17_Arti: Overseer-Forbidden,
+Room_Attr: HH_17_Hunter: JetFish-Forbidden,
+Room_Attr: HH_17_Gourmand: Overseer-Forbidden,
+Room_Attr: HH_17: Overseer-Forbidden,
+Room_Attr: HH_17_Monk: Overseer-Forbidden,
+Room_Attr: HH_17_Riv: Overseer-Forbidden,
+Room_Attr: HH_17_Saint: Overseer-Forbidden,
+
+Room_Attr: HH_18_Spear: Overseer-Forbidden,
+Room_Attr: HH_18_Arti: Overseer-Forbidden,
+Room_Attr: HH_18_Hunter: JetFish-Forbidden,
+Room_Attr: HH_18_Gourmand: Overseer-Forbidden,
+Room_Attr: HH_18: Overseer-Forbidden,
+Room_Attr: HH_18_Monk: Overseer-Forbidden,
+Room_Attr: HH_18_Riv: Overseer-Forbidden,
+Room_Attr: HH_18_Saint: Overseer-Forbidden,
+
+Room_Attr: HH_19_Spear: Overseer-Forbidden,
+Room_Attr: HH_19_Arti: Overseer-Forbidden,
+Room_Attr: HH_19_Hunter: JetFish-Forbidden,
+Room_Attr: HH_19_Gourmand: Overseer-Forbidden,
+Room_Attr: HH_19: Overseer-Forbidden,
+Room_Attr: HH_19_Monk: Overseer-Forbidden,
+Room_Attr: HH_19_Riv: Overseer-Forbidden,
+Room_Attr: HH_19_Saint: Overseer-Forbidden,
+
+Room_Attr: HH_20_Hunter: Overseer-Avoid,
+Room_Attr: HH_20_Spear: Overseer-Forbidden,
+Room_Attr: HH_20_Arti: Overseer-Forbidden,
+Room_Attr: HH_20: Overseer-Forbidden,
+Room_Attr: HH_20_Gourmand: Overseer-Forbidden,
+Room_Attr: HH_20_Monk: Overseer-Forbidden,
+Room_Attr: HH_20_Riv: Overseer-Forbidden,
+Room_Attr: HH_20_Saint: Overseer-Forbidden,
+
+Room_Attr: HH_21_Hunter: Overseer-Avoid,LizardTemplate-Avoid,
+Room_Attr: HH_21_Spear: Overseer-Forbidden,
+Room_Attr: HH_21_Arti: Overseer-Forbidden,
+Room_Attr: HH_21: Overseer-Forbidden,
+Room_Attr: HH_21_Gourmand: Overseer-Forbidden,
+Room_Attr: HH_21_Monk: Overseer-Forbidden,
+Room_Attr: HH_21_Riv: Overseer-Forbidden,
+Room_Attr: HH_21_Saint: Overseer-Forbidden,
+
+Room_Attr: HH_22_Spear: Overseer-Forbidden,
+Room_Attr: HH_22_Arti: Overseer-Forbidden,
+Room_Attr: HH_22_Hunter: JetFish-Forbidden,
+Room_Attr: HH_22_Gourmand: Overseer-Forbidden,
+Room_Attr: HH_22: Overseer-Forbidden,
+Room_Attr: HH_22_Monk: Overseer-Forbidden,
+Room_Attr: HH_22_Riv: Overseer-Forbidden,
+Room_Attr: HH_22_Saint: Overseer-Forbidden,
+
+Room_Attr: HH_23_Hunter: GreenLizard-Avoid,WaterSpitter-Avoid,SpitLizard-Avoid,RedLizard-Avoid,
+Room_Attr: HH_23_Spear: Overseer-Forbidden,
+Room_Attr: HH_23_Arti: Overseer-Forbidden,
+Room_Attr: HH_23: Overseer-Forbidden,
+Room_Attr: HH_23_Gourmand: Overseer-Forbidden,
+Room_Attr: HH_23_Monk: Overseer-Forbidden,
+Room_Attr: HH_23_Riv: Overseer-Forbidden,
+Room_Attr: HH_23_Saint: Overseer-Forbidden,
+
+Room_Attr: HH_24_Hunter: Overseer-Avoid,GreenLizard-Forbidden,WaterSpitter-Forbidden,SpitLizard-Forbidden,RedLizard-Forbidden,
+Room_Attr: HH_24_Spear: Overseer-Forbidden,
+Room_Attr: HH_24_Arti: Overseer-Forbidden,
+Room_Attr: HH_24: Overseer-Forbidden,
+Room_Attr: HH_24_Gourmand: Overseer-Forbidden,
+Room_Attr: HH_24_Monk: Overseer-Forbidden,
+Room_Attr: HH_24_Riv: Overseer-Forbidden,
+Room_Attr: HH_24_Saint: Overseer-Forbidden,
+
+Room_Attr: HH_25: JetFish-Forbidden,Overseer-Avoid,
+
+Room_Attr: HH_26_Hunter: KingVulture-Forbidden,Overseer-Like,Deer-Stay,GreenLizard-Like,WaterSpitter-Like,SpitLizard-Like,RedLizard-Like,
+Room_Attr: HH_26_Spear: KingVulture-Forbidden,Overseer-Forbidden,Deer-Forbidden,
+Room_Attr: HH_26_Arti: KingVulture-Forbidden,Overseer-Forbidden,Deer-Forbidden,
+Room_Attr: HH_26_Gourmand: KingVulture-Forbidden,Overseer-Forbidden,Deer-Forbidden,
+Room_Attr: HH_26: KingVulture-Forbidden,Overseer-Forbidden,Deer-Forbidden,
+Room_Attr: HH_26_Monk: KingVulture-Forbidden,Overseer-Forbidden,Deer-Forbidden,
+Room_Attr: HH_26_Riv: KingVulture-Forbidden,Overseer-Forbidden,Deer-Forbidden,
+Room_Attr: HH_26_Saint: KingVulture-Forbidden,Overseer-Forbidden,Deer-Forbidden,
+
+Room_Attr: HH_27: Overseer-Forbidden,LizardTemplate-Avoid,
+Room_Attr: HH_27_Saint: Overseer-Forbidden,LizardTemplate-Forbidden,
+
+Room_Attr: HH_28: Overseer-Forbidden,LizardTemplate-Forbidden,
+Room_Attr: HH_28_Riv: Overseer-Forbidden,LizardTemplate-Forbidden,
+
+Room_Attr: HH_29_Hunter: Overseer-Avoid,
+Room_Attr: HH_29_Spear: Overseer-Forbidden,
+Room_Attr: HH_29_Arti: Overseer-Forbidden,
+Room_Attr: HH_29: Overseer-Forbidden,
+Room_Attr: HH_29_Gourmand: Overseer-Forbidden,
+Room_Attr: HH_29_Monk: Overseer-Forbidden,
+Room_Attr: HH_29_Riv: Overseer-Forbidden,
+Room_Attr: HH_29_Saint: Overseer-Forbidden,
+
+Room_Attr: HH_30: LizardTemplate-Avoid,
+
+Room_Attr: HH_31: Overseer-Forbidden,LizardTemplate-Forbidden,

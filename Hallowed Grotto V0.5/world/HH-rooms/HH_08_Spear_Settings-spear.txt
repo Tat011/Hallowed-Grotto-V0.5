@@ -1,0 +1,5 @@
+Template: HH_SettingsTemplate_Inside
+RumbleIntensity: 0.5
+Effects: Beetle-0.8-11-62, TinyDragonFly-0.6-267-123, RedSwarmer-0.6-267-9, 
+PlacedObjects: Mushroom><714.6942><144.7977><103~54~5~10, Mushroom><699.9164><139.6391><108~-30~5~10,  
+FadePalette: 2, 0.1

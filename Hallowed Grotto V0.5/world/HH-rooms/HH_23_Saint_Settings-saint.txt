@@ -1,0 +1,3 @@
+Template: HH_SettingsTemplate_Saint
+PlacedObjects: SeedCob><567.8624><280.4154><-484~194~7~14, SeedCob><510.3001><242.757><-82~-183~7~14, 
+FadePalette: 2, 0.1

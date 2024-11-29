@@ -1,0 +1,16 @@
+Template: NONE
+DangerType: Flood
+RainIntensity: 0
+RumbleIntensity: 0.4
+CeilingDrips: 0.6
+Clouds: 1.0
+Grime: 0
+RandomItemDensity: 0.3
+RandomItemSpearChance: 0.4
+Palette: 125
+EffectColorA: 9
+EffectColorB: 7
+FadePalette: 8, 0.75
+Effects: RockFlea-0.3-20-20, 
+PlacedObjects: Mushroom><796.6503><184.6319><10~-164~5~15, InsectGroup><818.9188><249.6072><1~148~-278~117~LightningBugA~0.22, 
+WetTerrain: OFF

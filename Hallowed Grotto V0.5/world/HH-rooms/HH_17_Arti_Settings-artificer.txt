@@ -1,0 +1,4 @@
+Template: HH_SettingsTemplate_Inside
+Effects: TinyDragonFly-0.075-267-123, RedSwarmer-0.075-267-9, Darkness-0-264-179, 
+PlacedObjects: InsectGroup><232.5536><283.9427><0~100~-197~269~LightningBugA~0.4, InsectGroup><428.994><336.1999><0~100~-125~239~LightningBugA~0.4, InsectGroup><581.2><417.7522><-5~68~-454~-435~LightningBugA~0.4, InsectGroup><688.8055><472.7032><-29~36~65~74~LightningBugA~0.4, InsectGroup><636.6997><89.7399><49~106~73~0~LightningBugA~0.4, 
+FadePalette: 8, 0.5

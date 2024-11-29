@@ -1,0 +1,12 @@
+Template: NONE
+DangerType: Flood
+RumbleIntensity: 0.8
+CeilingDrips: 0.4
+Clouds: 0
+Grime: 0
+Palette: 9
+EffectColorA: 7
+EffectColorB: 13
+Effects: Darkness-0.15-20-20, Ant-1-20-40
+PlacedObjects: Corruption><725.6954><530.3461><-67~98, SuperStructureFuses><429.5735><338.9783><115.2857~25.37144, Corruption><827.8083><378.1931><-31~75, Corruption><646.8008><689.9828><7~67, 
+FadePalette: 35, 0.15, 0.15

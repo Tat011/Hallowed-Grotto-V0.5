@@ -1,0 +1,34 @@
+[MERGE]
+GATE_DS_HH_Spear : 3 : open
+GATE_DS_HH_Arti : 4 : open
+GATE_DS_HH_Hunter : 3 : open
+GATE_DS_HH_Gourmand : 3 : open
+GATE_DS_HH : 2 : open
+GATE_DS_HH_Monk : 1 : open
+GATE_DS_HH_Riv : 3 : open
+GATE_DS_HH_Saint : 2 : open
+
+GATE_HH_GW_Spear : open : 3
+GATE_HH_GW_Arti : open : 5
+GATE_HH_GW_Hunter : open : 3
+GATE_HH_GW_Gourmand : open : 3
+GATE_HH_GW : open : 2
+GATE_HH_GW_Monk : open : 2
+GATE_HH_GW_Riv : open : 3
+GATE_HH_GW_Saint : open : 3
+
+GATE_HH_SL : open : 1
+GATE_HH_SL_Riv : open : 3
+GATE_HH_SL_Saint : open : 2
+
+GATE_SB_HH_Spear : 3 : open : Multi
+GATE_SB_HH_Arti : 5 : open : Multi
+GATE_SB_HH_Hunter : 3 : open : Multi
+GATE_SB_HH_Gourmand : 2 : open : Multi
+GATE_SB_HH : 2 : open : Multi
+GATE_SB_HH_Monk : 1 : open : Multi
+GATE_SB_HH_Riv : 2 : open : Multi
+GATE_SB_HH_Saint : 2 : open : Multi
+
+GATE_SB_HH_2 : forbidden : 10
+[ENDMERGE]

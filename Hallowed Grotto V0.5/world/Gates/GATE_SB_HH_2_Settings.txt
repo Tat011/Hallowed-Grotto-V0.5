@@ -1,0 +1,14 @@
+DangerType: Flood
+RainIntensity: 0
+RumbleIntensity: 0.1
+CeilingDrips: 0.4
+Clouds: 1.0
+Grime: 0
+RandomItemDensity: 0.1
+RandomItemSpearChance: 0.3
+EffectColorA: 9
+EffectColorB: 7
+FadePalette: 8, 0.5
+Effects: RockFlea-1.0-20-20
+PlacedObjects: LightSource><757.1267><228.4048><0.6~EffectColor1~0~122~50~86.60254~0~0~Fade~0~0, LightSource><757.1267><228.4048><0.4~EffectColor1~-73~70~-335.0953~132.3054~0~0~None~0~0, RedToken><789.4645><229.28><0~100~0~0~0~HH~~0~0~1~0, 
+WetTerrain: OFF

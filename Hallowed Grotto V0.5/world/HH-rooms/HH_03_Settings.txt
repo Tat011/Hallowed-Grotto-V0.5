@@ -1,0 +1,4 @@
+Template: HH_SettingsTemplate_Inside
+Effects: WaterGlowworm-0.4-20-20, TinyDragonFly-0.9-267-123, RedSwarmer-0.8-267-9
+PlacedObjects: KarmaFlower><268.9487><449.2725><0~0~5~10, BubbleGrass><761.3462><310.3778><43~89~5~10, Mushroom><225.8042><457.0407><-237~-170~5~10, Mushroom><193.5337><471.9471><-265~-245~5~10, Mushroom><209.2533><464.45><-259~95~5~10, 
+FadePalette: 9, 0.1

@@ -1,0 +1,12 @@
+Template: NONE
+DangerType: Flood
+RainIntensity: 0
+RumbleIntensity: 0.8
+CeilingDrips: 0.4
+Clouds: 0
+Grime: 0
+Palette: 9
+EffectColorA: 7
+EffectColorB: 13
+FadePalette: 125, 0.45
+Effects: RockFlea-1-20-20, 

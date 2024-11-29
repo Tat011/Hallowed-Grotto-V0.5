@@ -1,0 +1,16 @@
+Template: NONE
+DangerType: Flood
+RainIntensity: 0
+RumbleIntensity: 0.7
+CeilingDrips: 0
+Clouds: 1.0
+Grime: 0
+RandomItemDensity: 0.2
+RandomItemSpearChance: 0.3
+Palette: 34
+EffectColorA: 9
+EffectColorB: 7
+FadePalette: 14, 0.5
+Effects: WaterGlowworm-1.0-20-20, Darkness-0.1-168-105, 
+PlacedObjects: GlowWeed><807.1943><182.2024><33.00006~-174~5~15, GlowWeed><758.3513><212.3837><105~22~5~15, GlowWeed><712.0471><168.9444><127~-73~5~15, GlowWeed><599.8926><96.3597><263~-130~5~15, GlowWeed><351.6588><176.3716><-427~-227~5~15, GlowWeed><159.9376><279.94><0~0~5~15, GlowWeed><223.8382><174.1176><-245~-108~5~15, 
+WetTerrain: OFF

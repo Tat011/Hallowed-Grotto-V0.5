@@ -1,0 +1,4 @@
+Template: HH_SettingsTemplate_Inside
+Effects: Beetle-0.75-11-62, TinyDragonFly-0.65-267-123, RedSwarmer-0.65-267-9
+PlacedObjects: DangleFruit><152.0669><484.4196><94~67~5~10, DangleFruit><178.6514><505.326><-370~51~5~10, DangleFruit><103.9681><478.6974><-266~-12~5~10, KarmaFlower><533.847><79.1749><0~0~5~10,  
+FadePalette: 9, 0.1

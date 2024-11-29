@@ -1,0 +1,4 @@
+Template: HH_SettingsTemplate_Inside
+Effects: WaterGlowworm-1-20-20, Darkness-0.6-264-179, 
+PlacedObjects: GlowWeed><797.4097><339.8705><-116~-165~5~10, 
+FadePalette: 2, 0.1

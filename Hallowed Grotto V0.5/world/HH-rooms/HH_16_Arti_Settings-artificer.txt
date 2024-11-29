@@ -1,0 +1,3 @@
+Template: HH_SettingsTemplate_Inside
+PlacedObjects: ExitSymbolHidden><374.3893><35.10654><, 
+FadePalette: 2, 0.1

@@ -1,0 +1,5 @@
+Template: HH_SettingsTemplate_Riv
+RumbleIntensity: 0.5
+Effects: Beetle-0.8-11-62, TinyDragonFly-0.6-267-123, RedSwarmer-0.6-267-9,  
+PlacedObjects: DangleFruit><312.0941><588.4265><-461~-34~5~10, DangleFruit><341.0494><606.3062><162~-15~5~10, Mushroom><714.6942><144.7977><103~54~5~10, Mushroom><699.9164><139.6391><108~-30~5~10, DangleFruit><375.8305><620.4331><-143~-149~5~10, 
+FadePalette: 2, 0.1

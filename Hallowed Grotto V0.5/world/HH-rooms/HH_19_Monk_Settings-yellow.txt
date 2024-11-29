@@ -1,0 +1,4 @@
+Template: HH_SettingsTemplate_Inside
+Effects: TinyDragonFly-0.075-267-123, RedSwarmer-0.075-267-9, Darkness-0-264-179,
+PlacedObjects: InsectGroup><306.4196><254.1832><-11~75~-268~111~LightningBugA~0.35, InsectGroup><962.8326><263.8178><-77~51~-19~169~LightningBugA~0.35, InsectGroup><494.9365><276.4276><-61~84~-108~167~LightningBugA~0.35, InsectGroup><733.7947><286.4449><-56~103~-49~168~LightningBugA~0.35, DangleFruit><833.4445><351.1921><126~-19~5~10, DangleFruit><801.5738><363.3446><160~-237~5~10, DangleFruit><860.672><354.6021><-180~-156~5~10, 
+FadePalette: 8, 0.5

@@ -1,0 +1,87 @@
+HH_01: 561><267><326><140><0><
+HH_02: 414><204><228><96><0><Hallowed Grotto
+HH_03: 495><75><278><10><0><Hallowed Grotto
+HH_04: 459><-36><258><-62><1><Hallowed Grotto
+HH_05: 153><-177><-46><-230><1><Hallowed Grotto
+HH_06: 234><144><86><44><0><Hallowed Grotto
+HH_07: 54><231><-14><96><0><Hallowed Grotto
+HH_08: 0><339><-50><168><0><Hallowed Grotto
+HH_09: 48><-114><-146><-176><0><Hallowed Grotto
+HH_10: -225><-174><-230><-100><1><NONE
+HH_11: -6><102><-54><4><0><Hallowed Grotto
+HH_12: -111><456><-124><246><0><
+HH_13: 651><135><386><52><0><Hallowed Grotto
+HH_14: -432><-219><-332><-172><1><NONE
+HH_15: 117><-309><-108><-314><2><Anchialine System
+HH_16: -300><-60><-256><-6><0><Hallowed Grotto
+HH_17: 300><-423><26><-390><0><Hallowed Grotto (Depths)
+HH_18: -57><-447><-98><-386><0><Hallowed Grotto (Depths)
+HH_19: -234><-459><-244><-354><0><Hallowed Grotto (Depths)
+HH_20: 330><-297><258><-228><0><Anchialine System
+HH_21: -213><-303><-204><-278><0><Anchialine System
+HH_22: -438><-465><-390><-334><0><Hallowed Grotto (Depths)
+HH_23: -411><-174><-430><-170><0><Hallowed Grotto
+HH_24: -528><-369><-398><-248><1><Anchialine System
+HH_25: -678><-507><-498><-390><0><Hallowed Grotto (Depths)
+HH_26: -564><-27><-498><-62><0><Hallowed Grotto
+HH_27: -525><-627><-398><-428><0><Hallowed Grotto (Depths)
+HH_28: -528><-810><-402><-502><0><Hallowed Grotto (Depths)
+HH_29: 510><-240><220><-320><2><Anchialine System
+HH_31: -531><-744><0><-82><0><Hallowed Grotto (Depths)
+HH_30: -897><18><-700><-30><0><
+HH_S01: -144><321><-148><158><0><NONE
+HH_S02: -801><-90><-584><-102><0><
+HH_S03: -363><-342><-300><-244><0><NONE
+GATE_DS_HH: -162><573><-154><330><0><
+GATE_SB_HH: -1119><42><-798><-14><0><
+GATE_SB_HH_2: -774><-681><-568><-466><0><
+OffScreenDen_HH: -363><336><-306><214><0><
+GATE_HH_SL: 729><-210><0><-70><2><
+GATE_HH_GW: 681><396><0><-100><0><
+Connection: HH_01,GATE_HH_GW,37,29,2,9,0,2
+Connection: HH_01,HH_02,12,5,46,27,2,0
+Connection: HH_02,HH_06,1,18,51,44,2,0
+Connection: HH_02,HH_13,42,10,3,32,0,2
+Connection: HH_03,HH_13,43,25,2,4,0,2
+Connection: HH_03,HH_09,5,24,173,68,2,0
+Connection: HH_03,HH_04,34,7,44,32,3,1
+Connection: HH_04,HH_05,3,12,149,96,2,0
+Connection: HH_05,HH_06,97,109,31,4,1,3
+Connection: HH_05,HH_10,4,89,89,24,2,0
+Connection: HH_05,HH_21,57,29,38,41,2,0
+Connection: HH_05,HH_20,108,22,1,24,0,2
+Connection: HH_06,HH_07,16,44,47,18,2,0
+Connection: HH_07,HH_08,6,29,24,1,1,3
+Connection: HH_07,HH_11,6,4,26,48,3,1
+Connection: HH_08,HH_12,1,32,37,3,2,0
+Connection: HH_08,HH_S01,13,11,39,16,2,0
+Connection: HH_09,HH_11,72,90,26,1,1,3
+Connection: HH_09,HH_16,1,68,51,23,2,0
+Connection: HH_09,HH_10,37,49,85,38,3,1
+Connection: HH_09,HH_18,66,5,36,12,3,1
+Connection: HH_09,HH_15,93,4,63,35,3,1
+Connection: HH_10,HH_14,1,25,47,61,2,0
+Connection: HH_12,GATE_DS_HH,31,31,36,5,2,3
+Connection: HH_14,HH_24,5,11,36,33,3,1
+Connection: HH_15,HH_29,156,33,16,12,0,2
+Connection: HH_15,HH_21,1,20,37,7,2,0
+Connection: HH_16,HH_26,2,22,118,10,2,0
+Connection: HH_16,HH_23,18,1,44,32,3,0
+Connection: HH_17,HH_20,40,33,30,1,1,3
+Connection: HH_17,HH_18,1,13,46,13,2,0
+Connection: HH_18,HH_19,3,12,55,10,2,0
+Connection: HH_19,HH_22,4,11,64,15,2,0
+Connection: HH_21,HH_24,8,26,46,20,2,0
+Connection: HH_21,HH_S03,14,12,30,17,2,0
+Connection: HH_21,HH_22,21,1,58,24,3,1
+Connection: HH_22,HH_25,1,15,47,48,2,0
+Connection: HH_23,HH_26,2,33,89,2,1,3
+Connection: HH_23,HH_24,25,1,9,31,3,1
+Connection: HH_24,HH_25,1,5,43,72,2,0
+Connection: HH_25,HH_27,46,11,1,30,0,2
+Connection: HH_25,GATE_SB_HH_2,15,3,47,22,3,0
+Connection: HH_26,HH_30,1,32,95,16,2,0
+Connection: HH_27,HH_28,18,9,20,32,0,0
+Connection: HH_29,GATE_HH_SL,87,25,4,12,0,2
+Connection: HH_30,GATE_SB_HH,4,17,45,9,2,0
+Connection: HH_30,HH_S02,83,14,25,29,3,1

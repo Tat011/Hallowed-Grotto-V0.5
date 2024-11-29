@@ -1,0 +1,4 @@
+Template: HH_SettingsTemplate_Saint
+Effects: WaterGlowworm-1-20-20, 
+PlacedObjects: BubbleGrass><215.4518><402.2515><90.66669~208.4571~4~9, BubbleGrass><188.1063><427.936><-203.4286~174.08~4~9, Hazer><711.312><220.2638><0~0~5~10, Hazer><1455.624><212.4705><0~0~7~10, Hazer><1100.078><189.3376><0~0~7~10, 
+FadePalette: 2, 0.1, 0.1

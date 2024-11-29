@@ -1,0 +1,62 @@
+(Spear)What has brought you here, creature?
+(Spear)Was it just random chance?
+(Spear)Or were you too brought here by visions from the abyss?
+(Spear)I once held a fascination for this place, its history, its knowledge.
+(Spear)Now roaming these corridors feels nostalgic.
+(Spear)I spent so much of my time here.
+(Spear)Studying, measuring, hypothesizing.
+(Spear)And I'm now supposed to just let it go?
+(Spear)Act like it never happened?
+(Spear)How would one even achieve that?
+(Artificer)You do not belong here.
+(Artificer)This place is incompatible with your hate.
+(Artificer)Then again, in this place, far from those who have wronged you,<LINE>perhaps you can learn to forgive.
+(Artificer)It’s only up to you.
+(Red)I can feel your pain, little one.
+(Red)Know that it’s not yet over for you. 
+(Red)Take this gift and keep descending.
+(Red)Perhaps you can do what I could not.
+(Gourmand)What would someone like you make of this place?
+(Gourmand)I was once fascinated by these ruins.
+(Gourmand)So many questions, so little answers. 
+(Gourmand)Do you feel the same way about the things we left behind?
+(Gourmand)A cycle within a cycle.
+(Gourmand)Eventually, some other creature will emerge and investigate the things your kind left behind.
+(Gourmand)I wonder just how deep beneath the earth our creations will be by then.
+(Gourmand)And the ruins we are standing on?
+(Gourmand)Gone, erased as if they never existed in the first place.
+(White)You! 
+(White)Come, sit down with me.
+(White)What do you think makes this place hallowed?
+(White)Is it its proximity to the void?
+(White)The vegetation?
+(White)Some ancient technology?
+(White)I pondered this question for countless cycles when I was whole, and for even more countless cycles now.
+(White)Even though the answer no longer matters.
+(White)Still, I can't help myself.
+(White)Why is this place different?
+(White)The answer has to lie in here somewhere.  
+(White)It has to.
+(Yellow)Yet another creature!
+(Yellow)I’m growing rather fond of being visited by your kind. 
+(Yellow)Can someone like me continue to make memories? 
+(Yellow)Continue changing despite my predicament? 
+(Yellow)I certainly hope so.
+(Rivulet)Another one comes, it has certainly been a while.
+(Rivulet)Come.
+(Rivulet)Stay a while.
+(Rivulet)…
+(Rivulet)I’ve made peace with the fact that I'll never understand this place.
+(Rivulet)This place is,
+(Rivulet)and I am.
+(Rivulet)And that’s good enough.
+(Saint)Can you feel it? 
+(Saint)The void is really close now. 
+(Saint)Soon this area will no longer exist, and who knows what will happen to me. 
+(Saint)Everything comes to an end eventually.
+(Saint)Do you think I will finally get to join my peers?
+(Inv)…
+(Inv)…
+(Inv)This region fucking sucks.
+(Inv)I want a refund.
+(Inv)Do you know how i can contact customer service?

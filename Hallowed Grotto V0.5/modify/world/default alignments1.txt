@@ -1,0 +1,71 @@
+[ADD](Spear)All : HH=4
+[ADD](Spear)Lizards : HH=5
+[ADD](Spear)JetFish : HH=20
+[ADD](Spear)Cicadas : HH=20
+[ADD](Spear)Scavengers : HH=5
+[ADD](Spear)Deer : HH=20
+[ADD](Spear)GarbageWorms : HH=20
+
+[ADD](Artificer)All : HH=-25
+[ADD](Artificer)Lizards : HH=-100
+[ADD](Artificer)JetFish : HH=-100
+[ADD](Artificer)Cicadas : HH=-100
+[ADD](Artificer)Scavengers : HH=-100
+[ADD](Artificer)Deer : HH=-100
+[ADD](Artificer)GarbageWorms : HH=-100
+
+[ADD](Red)All : HH=6
+[ADD](Red)Lizards : HH=8
+[ADD](Red)JetFish : HH=30
+[ADD](Red)Cicadas : HH=30
+[ADD](Red)Scavengers : HH=8
+[ADD](Red)Deer : HH=40
+[ADD](Red)GarbageWorms : HH=40
+
+[ADD](Gourmand)All : HH=8
+[ADD](Gourmand)Lizards : HH=12
+[ADD](Gourmand)JetFish : HH=40
+[ADD](Gourmand)Cicadas : HH=40
+[ADD](Gourmand)Scavengers : HH=12
+[ADD](Gourmand)Deer : HH=60
+[ADD](Gourmand)GarbageWorms : HH=60
+
+[ADD](X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)All : HH=10
+[ADD](X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)Lizards : HH=15
+[ADD](X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)JetFish : HH=50
+[ADD](X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)Cicadas : HH=50
+[ADD](X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)Scavengers : HH=15
+[ADD](X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)Deer : HH=80
+[ADD](X-Spear,Artificer,Red,Gourmand,Yellow,Rivulet,Saint,Inv)GarbageWorms : HH=80
+
+[ADD](Yellow)All : HH=15
+[ADD](Yellow)Lizards : HH=20
+[ADD](Yellow)JetFish : HH=60
+[ADD](Yellow)Cicadas : HH=60
+[ADD](Yellow)Scavengers : HH=20
+[ADD](Yellow)Deer : HH=100
+[ADD](Yellow)GarbageWorms : HH=100
+
+[ADD](Rivulet)All : HH=8
+[ADD](Rivulet)Lizards : HH=12
+[ADD](Rivulet)JetFish : HH=40
+[ADD](Rivulet)Cicadas : HH=40
+[ADD](Rivulet)Scavengers : HH=12
+[ADD](Rivulet)Deer : HH=60
+[ADD](Rivulet)GarbageWorms : HH=60
+
+[ADD](Saint)All : HH=12
+[ADD](Saint)Lizards : HH=17
+[ADD](Saint)JetFish : HH=55
+[ADD](Saint)Cicadas : HH=55
+[ADD](Saint)Scavengers : HH=17
+[ADD](Saint)Deer : HH=90
+[ADD](Saint)GarbageWorms : HH=90
+
+[ADD](Inv)All : HH=-15
+[ADD](Inv)Lizards : HH=-50
+[ADD](Inv)JetFish : HH=-50
+[ADD](Inv)Cicadas : HH=-50
+[ADD](Inv)Scavengers : HH=-100
+[ADD](Inv)Deer : HH=-50
+[ADD](Inv)GarbageWorms : HH=-50

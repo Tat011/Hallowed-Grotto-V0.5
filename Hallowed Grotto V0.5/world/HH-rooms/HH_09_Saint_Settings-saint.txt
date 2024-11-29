@@ -1,0 +1,4 @@
+Template: HH_SettingsTemplate_Saint
+Effects: WaterGlowworm-1-9-4, TinyDragonFly-0.7-267-9, RedSwarmer-0.7-20-20, RockFlea-0.8-11-62, Beetle-0.6-267-123, 
+PlacedObjects: LillyPuck><2890.581><1290.067><14~29~5~10, LillyPuck><2168.999><1286.3><-91~33~2~3, LillyPuck><2212.134><1285.648><171~-12~2~3, LillyPuck><2132.072><1287.813><-319~24~2~3, LillyPuck><1055.472><1286.698><0~0~2~3, LillyPuck><979.6964><1285.537><0~0~2~3, 
+FadePalette: 2, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1

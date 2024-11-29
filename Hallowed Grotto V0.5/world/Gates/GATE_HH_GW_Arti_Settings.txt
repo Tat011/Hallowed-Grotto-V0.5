@@ -1,0 +1,13 @@
+Template: NONE
+DangerType: Flood
+RainIntensity: 0
+RumbleIntensity: 0.8
+CeilingDrips: 0.4
+Clouds: 0
+Grime: 0
+Palette: 35
+EffectColorA: 7
+EffectColorB: 12
+FadePalette: 125, 0.5
+Effects: RockFlea-1-20-20, Darkness-0.2-264-179, 
+PlacedObjects: Corruption><815><326.0922><-72~122.6857, Corruption><166.4567><338.8047><-127~-9, Corruption><620.9498><422.8064><-13~34, 

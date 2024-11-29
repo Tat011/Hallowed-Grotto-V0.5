@@ -1,0 +1,14 @@
+{
+   "id": "HallowedGrotto",
+   "name": "Hallowed Grotto V0.5", 
+   "version": "0.5",
+   "target_game_version": "v1.9.07b",
+   "authors": "Tat011",    
+   "description": "A small, lush cave system relatively untouched by the ancients which is located deep underground.<LINE>Connects Garbage Wastes, Drainage System, Subterranean, Shoreline... and maybe somewhere else?<LINE>Additional features:<LINE>Almost every room changes slightly from campaign to campaign.<LINE>A wide array of creatures from vanilla, Downpour and the modding community, with some creatures being only present in certain campaigns and some needing to be lineaged.<LINE>An extensive lineage system that also differs from campaign to campaign<LINE>2 different gimmicks for Inv<LINE><LINE>Big thanks to Bro for all the help & SchuhBaum for making the plugin this mod uses.", 
+   "youtube_trailer_id": "",
+   "requirements": ["moreslugcats", "crs", "regionkit", "fisobs", "nacu.lunacy", "lb-fgf-m4r-ik.modpack"],
+   "requirements_names": ["More Slugcats Expansion", "Custom Regions Support", "RegionKit", "Fisobs", "Lunacy", "The M4rblelous Entity Pack"],
+   "tags": ["Regions"],
+   "checksum_override_version": false
+
+}

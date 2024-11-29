@@ -1,0 +1,83 @@
+HH_25: -681><-507><-498><-390><0><Hallowed Grotto (Depths)
+HH_30: -897><21><-700><-30><0><
+HH_S02: -801><-87><-584><-102><0><
+GATE_SB_HH_2: -774><-678><-568><-466><0><
+HH_27_Saint: -525><-631.5><0><-78><0><Hallowed Grotto (Depths)
+HH_18_Saint: -51><-463.5><0><-70><0><Hallowed Grotto (Depths)
+GATE_DS_HH_Saint: -162><553.5><0><-70><0><
+HH_13_Saint: 636><160.5><0><-70><0><Hallowed Grotto
+HH_04_Saint: 453><-120><0><-70><1><Hallowed Grotto
+HH_08_Saint: 0><327><0><-76><0><Hallowed Grotto
+HH_10_Saint: -226.5><-171><0><-80><1><
+HH_01_Spear: 555><292.5><0><-70><0><
+GATE_HH_GW_Riv: 672><420><0><-100><0><
+HH_02_Riv: 408><229.5><0><-74><0><Hallowed Grotto
+HH_26_Arti: -564><-28.5><0><-70><0><Hallowed Grotto
+GATE_SB_HH: -1122><46.5><0><-70><0><
+HH_12_Monk: -111><436.5><0><-82><0><
+HH_S01: -147><310.5><0><-70><0><
+HH_07_Riv: 52.5><226.5><0><-70><0><Hallowed Grotto
+HH_06_Spear: 231><171><0><-104><0><Hallowed Grotto
+HH_03_Gourmand: 489><102><0><-74><0><Hallowed Grotto
+HH_11_Monk: -6><103.5><0><-102><0><Hallowed Grotto
+HH_16_Riv: -300><-60><0><-76><0><Hallowed Grotto
+HH_09_Hunter: 48><-114><0><-184><0><Hallowed Grotto
+HH_23_Riv: -396><-172.5><0><-70><0><Hallowed Grotto
+HH_24_Riv: -534><-367.5><0><-70><1><Anchialine System
+HH_14_Arti: -438><-216><0><-164><1><
+HH_22_Hunter: -405><-465><0><-80><0><Hallowed Grotto (Depths)
+HH_19: -216><-457.5><0><-70><0><Hallowed Grotto (Depths)
+HH_17_Arti: 297><-463.5><0><-70><0><Hallowed Grotto (Depths)
+HH_21_Spear: -219><-309><0><-104><0><Anchialine System
+HH_S03: -366><-346.5><0><-70><0><
+HH_15_Monk: 99><-331.5><0><-74><2><Anchialine System
+HH_29_Spear: 504><-264><0><-84><2><Anchialine System
+GATE_HH_SL: 723><-232.5><0><-70><2><
+HH_20_Gourmand: 327><-355.5><0><-70><0><Anchialine System
+HH_05: 151.5><-258><0><-224><1><Hallowed Grotto
+OffScreenDen_HH: -363><336><-306><214><0><
+Connection: HH_25,HH_24_Riv,43,72,1,5,0,2
+Connection: HH_25,HH_22_Hunter,47,48,1,15,0,2
+Connection: HH_25,HH_27_Saint,46,11,1,34,0,2
+Connection: HH_25,GATE_SB_HH_2,15,3,47,22,3,0
+Connection: HH_30,GATE_SB_HH,4,17,45,9,2,0
+Connection: HH_30,HH_26_Arti,95,16,1,32,0,2
+Connection: HH_30,HH_S02,83,14,25,29,3,1
+Connection: HH_18_Saint,HH_09_Hunter,36,12,66,5,1,3
+Connection: HH_18_Saint,HH_17_Arti,46,13,1,13,0,2
+Connection: HH_18_Saint,HH_19,3,12,55,10,2,0
+Connection: GATE_DS_HH_Saint,HH_12_Monk,36,5,31,31,3,2
+Connection: HH_13_Saint,HH_02_Riv,3,32,42,10,2,0
+Connection: HH_13_Saint,HH_03_Gourmand,2,4,43,25,2,0
+Connection: HH_04_Saint,HH_03_Gourmand,44,32,34,7,1,3
+Connection: HH_04_Saint,HH_05,3,12,149,96,2,0
+Connection: HH_08_Saint,HH_S01,13,11,39,16,2,0
+Connection: HH_08_Saint,HH_07_Riv,24,1,6,29,3,1
+Connection: HH_10_Saint,HH_09_Hunter,85,38,37,49,1,3
+Connection: HH_10_Saint,HH_14_Arti,1,25,47,61,2,0
+Connection: HH_10_Saint,HH_05,89,24,4,89,0,2
+Connection: HH_01_Spear,GATE_HH_GW_Riv,37,29,2,9,0,2
+Connection: HH_01_Spear,HH_02_Riv,12,5,46,27,2,0
+Connection: HH_02_Riv,HH_06_Spear,1,18,51,44,2,0
+Connection: HH_26_Arti,HH_16_Riv,118,10,2,22,0,2
+Connection: HH_26_Arti,HH_23_Riv,89,2,2,33,3,1
+Connection: HH_07_Riv,HH_06_Spear,47,18,16,44,0,2
+Connection: HH_07_Riv,HH_11_Monk,6,4,26,48,3,1
+Connection: HH_06_Spear,HH_05,31,4,97,109,3,1
+Connection: HH_03_Gourmand,HH_09_Hunter,5,24,173,68,2,0
+Connection: HH_11_Monk,HH_09_Hunter,26,1,72,90,3,1
+Connection: HH_16_Riv,HH_09_Hunter,51,23,1,68,0,2
+Connection: HH_16_Riv,HH_23_Riv,18,1,44,32,3,0
+Connection: HH_09_Hunter,HH_15_Monk,93,4,63,35,3,1
+Connection: HH_23_Riv,HH_24_Riv,25,1,9,31,3,1
+Connection: HH_24_Riv,HH_14_Arti,36,33,5,11,1,3
+Connection: HH_24_Riv,HH_21_Spear,46,20,8,26,0,2
+Connection: HH_22_Hunter,HH_21_Spear,58,24,24,4,1,2
+Connection: HH_22_Hunter,HH_19,64,15,4,11,0,2
+Connection: HH_17_Arti,HH_20_Gourmand,40,33,30,1,1,3
+Connection: HH_21_Spear,HH_05,38,41,57,29,0,2
+Connection: HH_21_Spear,HH_S03,14,12,30,17,2,0
+Connection: HH_21_Spear,HH_15_Monk,37,7,1,20,0,2
+Connection: HH_15_Monk,HH_29_Spear,156,33,16,12,0,2
+Connection: HH_29_Spear,GATE_HH_SL,87,25,4,12,0,2
+Connection: HH_20_Gourmand,HH_05,1,24,108,22,2,0

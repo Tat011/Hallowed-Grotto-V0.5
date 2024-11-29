@@ -1,0 +1,12 @@
+Template: NONE
+DangerType: Blizzard
+RainIntensity: 1
+RumbleIntensity: 0.8
+CeilingDrips: 0.4
+Clouds: 0
+Grime: 0
+Palette: 9
+EffectColorA: 7
+EffectColorB: 13
+Effects: Darkness-0.15-20-20, Ant-1-20-40
+FadePalette: 0, 0.7, 0.7

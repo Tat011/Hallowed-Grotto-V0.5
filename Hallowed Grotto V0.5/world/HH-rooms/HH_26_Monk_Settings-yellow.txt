@@ -1,0 +1,4 @@
+Template: HH_SettingsTemplate_Inside
+Effects: WaterGlowworm-1-9-4, TinyDragonFly-0.7-267-9, RedSwarmer-0.7-20-20, RockFlea-0.8-11-62, Beetle-0.6-267-123, 
+PlacedObjects: ExitSymbolHidden><1797.893><58.11011><, DandelionPeach><1340.868><283.3499><-14~243~6~12, DandelionPeach><1260.931><289.6734><261~144~6~12, DandelionPeach><1307.877><293.4043><-24~22~6~12, 
+FadePalette: 2, 0.1, 0.1

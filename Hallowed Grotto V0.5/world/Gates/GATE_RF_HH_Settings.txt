@@ -1,0 +1,9 @@
+DangerType: Flood
+RainIntensity: 0
+RainIntensity: 0.5
+RumbleIntensity: 0.5
+Palette: 14
+EffectColorB: 7
+Effects: WaterGlowworm-0.25-20-20, 
+PlacedObjects: ExitSymbolShelter><237.4451><392.5441><, ExitSymbolShelter><730.0915><116.6779><, 
+FadePalette: 5, 0.5

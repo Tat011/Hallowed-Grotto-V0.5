@@ -1,0 +1,4 @@
+Template: HH_SettingsTemplate_Inside
+EffectColorA: 4
+Effects: RockFlea-0.75-20-20, GrassHopper-0.6-9-4, Beetle-0.3-11-62, TinyDragonFly-0.2-267-123, RedSwarmer-0.15-267-9, 
+FadePalette: 2, 0.1

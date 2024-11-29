@@ -1,0 +1,4 @@
+Template: HH_SettingsTemplate_Riv
+Effects: RockFlea-0.8-20-20, WaterGlowworm-1-20-20, Darkness-0-264-179, 
+PlacedObjects: GlowWeed><253.3154><202.6729><-53~-128~5~10, GlowWeed><201.2628><244.5504><0~0~2~3, GlowWeed><329.7129><190.6965><0~0~2~3, 
+FadePalette: 8, 0.3, 0.3, 0.3

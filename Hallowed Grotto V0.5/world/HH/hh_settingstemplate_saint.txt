@@ -1,0 +1,14 @@
+DangerType: Rain
+RainIntensity: 0
+RumbleIntensity: 0
+CeilingDrips: 0.2
+Clouds: 1.0
+Grime: 0
+RandomItemDensity: 0.2
+RandomItemSpearChance: 0.3
+Palette: 200
+EffectColorA: 17
+EffectColorB: 7
+FadePalette: 2, 0.1
+Effects: RockFlea-1-20-20, GrassHopper-1-9-4, Beetle-1-11-62, TinyDragonFly-1-267-123, RedSwarmer-1-267-9, Darkness-0.25-264-179,
+WetTerrain: ON

@@ -1,0 +1,4 @@
+Template: HH_SettingsTemplate_Inside
+RumbleIntensity: 0.6
+Effects: TinyDragonFly-0.6-267-123,
+FadePalette: 2, 0.1
